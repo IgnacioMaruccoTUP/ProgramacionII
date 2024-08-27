@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Unidad1\\PilasColasApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{143D84EF-D177-4CB5-8664-5B9B2262996E}|PilasColasApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\unidad1\\pilascolasapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143D84EF-D177-4CB5-8664-5B9B2262996E}|PilasColasApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143D84EF-D177-4CB5-8664-5B9B2262996E}|PilasColasApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\unidad1\\pilascolasapp\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143D84EF-D177-4CB5-8664-5B9B2262996E}|PilasColasApp.csproj|solutionrelative:clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143D84EF-D177-4CB5-8664-5B9B2262996E}|PilasColasApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\unidad1\\pilascolasapp\\clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143D84EF-D177-4CB5-8664-5B9B2262996E}|PilasColasApp.csproj|solutionrelative:clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143D84EF-D177-4CB5-8664-5B9B2262996E}|PilasColasApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\unidad1\\pilascolasapp\\interfaces\\icoleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143D84EF-D177-4CB5-8664-5B9B2262996E}|PilasColasApp.csproj|solutionrelative:interfaces\\icoleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Unidad1\\PilasColasApp\\Clases\\Cola.cs",
+              "RelativeDocumentMoniker": "Clases\\Cola.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Unidad1\\PilasColasApp\\Clases\\Cola.cs",
+              "RelativeToolTip": "Clases\\Cola.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T22:46:09.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Unidad1\\PilasColasApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Unidad1\\PilasColasApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:55:03.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Unidad1\\PilasColasApp\\Clases\\Pila.cs",
+              "RelativeDocumentMoniker": "Clases\\Pila.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Unidad1\\PilasColasApp\\Clases\\Pila.cs",
+              "RelativeToolTip": "Clases\\Pila.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:45:54.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IColeccion.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Unidad1\\PilasColasApp\\Interfaces\\IColeccion.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IColeccion.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Unidad1\\PilasColasApp\\Interfaces\\IColeccion.cs",
+              "RelativeToolTip": "Interfaces\\IColeccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:41:52.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

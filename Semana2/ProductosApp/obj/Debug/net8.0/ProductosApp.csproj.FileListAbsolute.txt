@@ -1,0 +1,14 @@
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\bin\Debug\net8.0\ProductosApp.exe
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\bin\Debug\net8.0\ProductosApp.deps.json
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\bin\Debug\net8.0\ProductosApp.runtimeconfig.json
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\bin\Debug\net8.0\ProductosApp.dll
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\bin\Debug\net8.0\ProductosApp.pdb
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\obj\Debug\net8.0\ProductosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\obj\Debug\net8.0\ProductosApp.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\obj\Debug\net8.0\ProductosApp.AssemblyInfo.cs
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\obj\Debug\net8.0\ProductosApp.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\obj\Debug\net8.0\ProductosApp.dll
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\obj\Debug\net8.0\refint\ProductosApp.dll
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\obj\Debug\net8.0\ProductosApp.pdb
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\obj\Debug\net8.0\ProductosApp.genruntimeconfig.cache
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\ProductosApp\obj\Debug\net8.0\ref\ProductosApp.dll

@@ -1,0 +1,14 @@
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\bin\Debug\net8.0\PilasColasApp.exe
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\bin\Debug\net8.0\PilasColasApp.deps.json
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\bin\Debug\net8.0\PilasColasApp.runtimeconfig.json
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\bin\Debug\net8.0\PilasColasApp.dll
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\bin\Debug\net8.0\PilasColasApp.pdb
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\obj\Debug\net8.0\PilasColasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\obj\Debug\net8.0\PilasColasApp.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\obj\Debug\net8.0\PilasColasApp.AssemblyInfo.cs
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\obj\Debug\net8.0\PilasColasApp.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\obj\Debug\net8.0\PilasColasApp.dll
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\obj\Debug\net8.0\refint\PilasColasApp.dll
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\obj\Debug\net8.0\PilasColasApp.pdb
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\obj\Debug\net8.0\PilasColasApp.genruntimeconfig.cache
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Unidad1\PilasColasApp\obj\Debug\net8.0\ref\PilasColasApp.dll
