@@ -1,0 +1,132 @@
+INSERT INTO [dbo].[T_Articulos] ([nombre], [precio_unitario]) VALUES ('Laptop', 1500.00);
+INSERT INTO [dbo].[T_Articulos] ([nombre], [precio_unitario]) VALUES ('Teclado Mecánico', 100.50);
+INSERT INTO [dbo].[T_Articulos] ([nombre], [precio_unitario]) VALUES ('Monitor 24"', 250.99);
+INSERT INTO [dbo].[T_Articulos] ([nombre], [precio_unitario]) VALUES ('Mouse Inalámbrico', 45.75);
+INSERT INTO [dbo].[T_Articulos] ([nombre], [precio_unitario]) VALUES ('Auriculares Bluetooth', 89.99);
+
+
+INSERT INTO [dbo].[T_Formas_Pago] ([forma_pago]) VALUES ('Efectivo');
+INSERT INTO [dbo].[T_Formas_Pago] ([forma_pago]) VALUES ('Tarjeta de Crédito');
+INSERT INTO [dbo].[T_Formas_Pago] ([forma_pago]) VALUES ('Transferencia Bancaria');
+
+-- Insertar la primera factura
+INSERT INTO [dbo].[T_Facturas] ([fecha], [id_forma_pago], [cliente]) 
+VALUES ('2024-09-03', 1, 'Juan Pérez');
+
+-- Suponiendo que los id_factura son generados automáticamente, obtén el ID insertado.
+DECLARE @FacturaID1 INT = SCOPE_IDENTITY();
+
+-- Insertar detalles de la primera factura
+INSERT INTO [dbo].[T_Detalles_Facturas] ([id_detalle], [id_factura], [id_articulo], [cantidad]) 
+VALUES (1,@FacturaID1, 1, 1),  -- Laptop
+       (2,@FacturaID1, 2, 2);  -- Teclado Mecánico
+
+-- Insertar la segunda factura
+INSERT INTO [dbo].[T_Facturas] ([fecha], [id_forma_pago], [cliente]) 
+VALUES ('2024-09-03', 2, 'María López');
+
+-- Suponiendo que los id_factura son generados automáticamente, obtén el ID insertado.
+DECLARE @FacturaID2 INT = SCOPE_IDENTITY();
+
+-- Insertar detalles de la segunda factura
+INSERT INTO [dbo].[T_Detalles_Facturas] ([id_detalle],[id_factura], [id_articulo], [cantidad]) 
+VALUES (3,@FacturaID2, 3, 1),  -- Monitor 24"
+       (4,@FacturaID2, 4, 1),  -- Mouse Inalámbrico
+       (5,@FacturaID2, 5, 1);  -- Auriculares Bluetooth
+
+
+SELECT * FROM T_Articulos
+
+SELECT * FROM T_Formas_Pago
+
+SELECT * FROM T_Facturas
+DELETE T_Facturas
+SELECT * FROM T_Detalles_Facturas
+DELETE T_Detalles_Facturas
+--FACTURAS
+CREATE PROCEDURE SP_INSERTAR_FACTURA
+	@cliente VARCHAR(50),
+	@id_forma_pago INT,
+	@id_factura INT OUTPUT
+AS
+BEGIN
+	INSERT INTO T_Facturas(cliente, fecha, id_forma_pago) VALUES (@cliente, GETDATE(), @id_forma_pago);
+	SET @id_factura = SCOPE_IDENTITY();
+END
+GO
+
+CREATE PROCEDURE SP_ELIMINAR_FACTURA
+	@id_factura INT
+AS
+BEGIN
+	DELETE T_Facturas WHERE id_factura = @id_factura
+END
+GO
+
+CREATE PROCEDURE SP_RECUPERAR_FACTURAS_COMPLETA
+AS
+BEGIN
+	SELECT F.id_factura, F.fecha, F.cliente, FP.forma_pago, DF.id_detalle, DF.cantidad, A.nombre, A.precio_unitario
+	FROM T_Facturas F 
+	JOIN T_Formas_Pago FP ON F.id_forma_pago = FP.id_forma_pago
+	JOIN T_Detalles_Facturas DF ON DF.id_factura = F.id_factura
+	JOIN T_Articulos A ON A.id_articulo = DF.id_articulo
+END
+GO
+
+CREATE PROCEDURE SP_RECUPERAR_FACTURA_POR_CODIGO
+	@id_factura INT
+AS
+BEGIN
+	SELECT id_factura, fecha, F.id_forma_pago, cliente, FP.forma_pago FROM T_Facturas F 
+	JOIN T_Formas_Pago FP ON F.id_forma_pago = FP.id_forma_pago
+	WHERE id_factura = @id_factura
+END
+GO
+
+
+
+--DETALLE
+CREATE PROCEDURE SP_INSERTAR_DETALLE
+	@id_detalle INT,
+	@id_factura INT,
+	@id_articulo INT,
+	@cantidad INT
+AS
+BEGIN
+	INSERT INTO T_Detalles_Facturas(id_detalle, id_factura, id_articulo, cantidad) 
+	VALUES (@id_detalle, @id_factura, @id_articulo, @cantidad);
+END
+GO
+
+CREATE PROCEDURE SP_ELIMINAR_DETALLES
+	@id_factura INT
+AS
+BEGIN
+	DELETE	T_Detalles_Facturas WHERE id_factura = @id_factura
+END
+GO
+
+--ARTICULOS:
+CREATE PROCEDURE SP_ELIMINAR_ARTICULO
+	@id_articulo INT
+AS
+BEGIN
+	DELETE T_Articulos WHERE id_articulo = @id_articulo 
+END
+GO
+
+CREATE PROCEDURE SP_RECUPERAR_ARTICULOS
+AS
+BEGIN
+	SELECT id_articulo, nombre, precio_unitario FROM T_Articulos
+END
+GO
+
+--FORMAS PAGO:
+CREATE PROCEDURE SP_RECUPERAR_FORMAS_PAGO
+AS
+BEGIN
+	SELECT id_forma_pago, forma_pago FROM T_Formas_Pago
+END
+GO
