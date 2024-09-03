@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\facturacionapp\\services\\billmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|solutionrelative:services\\billmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\facturacionapp\\data\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|solutionrelative:data\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\facturacionapp\\data\\implementations\\billrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|solutionrelative:data\\implementations\\billrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\facturacionapp\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|solutionrelative:utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\facturacionapp\\data\\contracts\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|solutionrelative:data\\contracts\\ibillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\facturacionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\facturacionapp\\data\\implementations\\articlerepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7C002-AC35-4313-8D6D-57E7005F40CC}|FacturacionApp.csproj|solutionrelative:data\\implementations\\articlerepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBillRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Data\\Contracts\\IBillRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Contracts\\IBillRepository.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Data\\Contracts\\IBillRepository.cs",
+              "RelativeToolTip": "Data\\Contracts\\IBillRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:51:31.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BillRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Data\\Implementations\\BillRepositoryADO.cs",
+              "RelativeDocumentMoniker": "Data\\Implementations\\BillRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Data\\Implementations\\BillRepositoryADO.cs",
+              "RelativeToolTip": "Data\\Implementations\\BillRepositoryADO.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:54:09.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticleRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Data\\Implementations\\ArticleRepositoryADO.cs",
+              "RelativeDocumentMoniker": "Data\\Implementations\\ArticleRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Data\\Implementations\\ArticleRepositoryADO.cs",
+              "RelativeToolTip": "Data\\Implementations\\ArticleRepositoryADO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:43:08.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Services\\BillManager.cs",
+              "RelativeDocumentMoniker": "Services\\BillManager.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Services\\BillManager.cs",
+              "RelativeToolTip": "Services\\BillManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:44:03.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:40:52.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Data\\Implementations\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\Implementations\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Data\\Implementations\\UnitOfWork.cs",
+              "RelativeToolTip": "Data\\Implementations\\UnitOfWork.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:40:12.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\FacturacionApp\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Utils\\DataHelper.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwEMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:40:02.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
