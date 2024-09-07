@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FacturacionApp.Data.Contracts
+namespace FacturacionApp.Repositories.Contracts
 {
     public interface IBillRepository
     {

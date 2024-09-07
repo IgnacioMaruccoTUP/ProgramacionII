@@ -5,10 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FacturacionApp.Data.Contracts
+namespace FacturacionApp.Repositories.Contracts
 {
-    public interface IPaymentTypeRepository
+    public interface IArticleRepository
     {
-        List<PaymentType> GetAll();
+        List<Article> GetAll();
+        bool Add(Article oArticle);
     }
 }

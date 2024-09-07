@@ -33,84 +33,38 @@ namespace FacturacionApp.Utils
 
         public DataTable ExecuteSPQuery(string sp, List<ParameterSQL>? parametros)
         {
-            DataTable t = new DataTable();
+            DataTable dataTable = new DataTable();
+            SqlCommand cmd = null;
+
             try
             {
                 _connection.Open();
-                var cmd = new SqlCommand(sp, _connection);
+                cmd = new SqlCommand(sp, _connection);
                 cmd.CommandType = System.Data.CommandType.StoredProcedure;
+
                 if (parametros != null)
                 {
                     foreach (var param in parametros)
                         cmd.Parameters.AddWithValue(param.Name, param.Value);
                 }
 
-                t.Load(cmd.ExecuteReader());
-                _connection.Close();
+                dataTable.Load(cmd.ExecuteReader());
             }
             catch (SqlException)
             {
-                t = null;
+                dataTable = null;
             }
-
-            return t;
-        }
-
-        public DataTable ExecuteSPQuery(string sp, List<ParameterSQL>? parameters, SqlTransaction transaction = null)
-        {
-            DataTable dataTable = new DataTable();
-            SqlCommand cmd = null;
-
-            cmd = new SqlCommand(sp, _connection);
-            cmd.CommandType = System.Data.CommandType.StoredProcedure;
-
-            if (transaction != null)
-                cmd.Transaction = transaction;
-
-            if (parameters != null)
+            finally
             {
-                foreach (var param in parameters)
-                    cmd.Parameters.AddWithValue(param.Name, param.Value);
+                if (_connection.State == System.Data.ConnectionState.Open)
+                {
+                    _connection.Close();
+                }
             }
-            dataTable.Load(cmd.ExecuteReader());
 
             return dataTable;
         }
 
-
-        //public DataTable ExecuteSPQuery(string sp, List<ParameterSQL>? parameters, SqlTransaction transaction = null)
-        //{
-        //    DataTable dataTable = new DataTable();
-        //    SqlCommand cmd = null;
-
-        //    try
-        //    {
-        //        _connection.Open(); 
-        //        cmd = new SqlCommand(sp, _connection);
-        //        cmd.CommandType = System.Data.CommandType.StoredProcedure;
-        //        if (transaction != null)
-        //            cmd.Transaction = transaction;
-
-        //        if (parameters != null)
-        //        {
-        //            foreach (var param in parameters)
-        //                cmd.Parameters.AddWithValue(param.Name, param.Value);
-        //        }
-        //        dataTable.Load(cmd.ExecuteReader());
-
-        //    }
-        //    catch (SqlException)
-        //    {
-        //        dataTable = null;
-        //    }
-        //    finally
-        //    {
-        //        if (transaction == null && _connection.State == System.Data.ConnectionState.Open)
-        //            _connection.Close();
-        //    }
-
-        //    return dataTable;
-        //}
 
 
         public int ExecuteSPDML(string sp, List<ParameterSQL>? parametros)
@@ -133,6 +87,13 @@ namespace FacturacionApp.Utils
             catch (SqlException)
             {
                 rows = 0;
+            }
+            finally
+            {
+                if (_connection.State == System.Data.ConnectionState.Open)
+                {
+                    _connection.Close();
+                }
             }
 
             return rows;

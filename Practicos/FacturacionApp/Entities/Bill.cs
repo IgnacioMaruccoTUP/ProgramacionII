@@ -40,5 +40,17 @@ namespace FacturacionApp.Domain
             }
             return total;
         }
+
+        public override string? ToString()
+        {
+            string str = "";
+            str += $"ID: {Code} | Fecha: {Date} | Forma de Pago: {PaymentType.Name} | Cliente: {Client} | Total: ${Total()}";
+            foreach (var detail in DetailList)
+            {
+                str+= $"\n Articulo: {detail.Article.Name} | Precio Unitario: ${detail.Article.UnitPrice} | Cantidad: {detail.Count} | SubTotal: ${detail.SubTotal()}";
+            }
+
+            return str;
+        }
     }
 }

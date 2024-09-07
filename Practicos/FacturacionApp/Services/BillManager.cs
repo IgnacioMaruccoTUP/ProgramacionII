@@ -1,5 +1,7 @@
 ﻿using FacturacionApp.Data.Implementations;
 using FacturacionApp.Domain;
+using FacturacionApp.Repositories.Contracts;
+using FacturacionApp.Repositories.Implementations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,36 +12,46 @@ namespace FacturacionApp.Services
 {
     public class BillManager
     {
-        private readonly UnitOfWork _unitOfWork;
-
-        public BillManager(UnitOfWork oUnitOfWork)
+        IArticleRepository articleRepository;
+        IPaymentTypeRepository paymentTypeRepository;
+        IBillRepository billRepository;
+        public BillManager()
         {
-            _unitOfWork = oUnitOfWork;
+            articleRepository = new ArticleRepositoryADO();
+            paymentTypeRepository = new PaymentTypeRepositoryADO();
+            billRepository = new BillRepositoryADO();
         }
-
-        public List<Article> GetAllArticles()
-        {
-            return _unitOfWork.ArticleRepositoryADO.GetAll();
-        }
-
         public List<PaymentType> GetAllPaymentTypes()
         {
-            return _unitOfWork.PaymentTypeRepositoryADO.GetAll();
+            return paymentTypeRepository.GetAll();
+        }
+        public List<Article> GetAllArticles()
+        {
+            return articleRepository.GetAll();
+        }
+        public bool AddArticle(Article oArticle)
+        {
+            return articleRepository.Add(oArticle);
+        }
+
+        public bool DeleteBill(int code)
+        {
+            return billRepository.Delete(code);
         }
 
         public List<Bill> GetAllBills()
         {
-            return _unitOfWork.BillRepositoryADO.GetAll();
+            return billRepository.GetAll();
         }
 
-        public bool AddBill(Bill bill)
+        public bool SaveBill(Bill oBill)
         {
-            var result = _unitOfWork.BillRepositoryADO.Save(bill);
-            return result;
+            return billRepository.Save(oBill);
         }
-        public void GuardarCambios()
+
+        public Bill GetBillById(int code)
         {
-            _unitOfWork.SaveChanges();
+            return billRepository.GetById(code);
         }
     }
 }

@@ -1,5 +1,5 @@
-﻿using FacturacionApp.Data.Contracts;
-using FacturacionApp.Domain;
+﻿using FacturacionApp.Domain;
+using FacturacionApp.Repositories.Contracts;
 using FacturacionApp.Utils;
 using System;
 using System.Collections.Generic;
@@ -13,16 +13,9 @@ namespace FacturacionApp.Data.Implementations
 {
     public class ArticleRepositoryADO : IArticleRepository
     {
-        private SqlConnection _connection;
-        private SqlTransaction _transaction;
-        public ArticleRepositoryADO(SqlConnection connection, SqlTransaction transaction)
-        {
-            _connection = connection;
-            _transaction = transaction;
-        }
         public List<Article> GetAll()
         {
-            DataTable dataTable = DataHelper.GetInstance().ExecuteSPQuery("SP_RECUPERAR_ARTICULOS", null, _transaction);
+            DataTable dataTable = DataHelper.GetInstance().ExecuteSPQuery("SP_RECUPERAR_ARTICULOS", null);
             var articleList = new List<Article>();
 
             if (dataTable != null && dataTable.Rows.Count > 0)
@@ -39,6 +32,18 @@ namespace FacturacionApp.Data.Implementations
                 }
             }
             return articleList;
+        }
+
+        public bool Add(Article oArticle)
+        {
+            var parametros = new List<ParameterSQL>
+            {
+                new ParameterSQL("@nombre", oArticle.Name),
+                new ParameterSQL("@precio_unitario", oArticle.UnitPrice),
+            };
+
+            int filasAfectadas = DataHelper.GetInstance().ExecuteSPDML("SP_CREAR_ARTICULO", parametros);
+            return filasAfectadas > 0;
         }
     }
 }
