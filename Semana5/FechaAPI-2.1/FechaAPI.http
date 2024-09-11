@@ -1,0 +1,6 @@
+@FechaAPI_HostAddress = http://localhost:5217
+
+GET {{FechaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

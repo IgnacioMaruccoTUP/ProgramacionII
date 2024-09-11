@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "FechaAPI.Controllers.FechaController",
+    "Method": "Get",
+    "RelativePath": "api/Fecha",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
