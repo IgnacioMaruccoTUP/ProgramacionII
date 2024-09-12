@@ -27,9 +27,9 @@
   },
   {
     "ContainingType": "ProductoApp.Controllers.ProductsController",
-    "Method": "DeleteProduct",
+    "Method": "GetById",
     "RelativePath": "api/Products/{code}",
-    "HttpMethod": "DELETE",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -43,29 +43,19 @@
   },
   {
     "ContainingType": "ProductoApp.Controllers.ProductsController",
-    "Method": "Get",
-    "RelativePath": "api/Products/{id}",
-    "HttpMethod": "GET",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/Products/{code}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
+        "Name": "code",
         "Type": "System.Int32",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "ProductoApp.Controllers.ProductsController",

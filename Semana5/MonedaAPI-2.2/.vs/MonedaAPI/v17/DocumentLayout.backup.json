@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI-2.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{470EE101-6760-48C1-A87D-0D90FE9720AD}|MonedaAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana5\\monedaapi\\controllers\\cashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{470EE101-6760-48C1-A87D-0D90FE9720AD}|MonedaAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana5\\monedaapi-2.2\\controllers\\cashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{470EE101-6760-48C1-A87D-0D90FE9720AD}|MonedaAPI.csproj|solutionrelative:controllers\\cashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{470EE101-6760-48C1-A87D-0D90FE9720AD}|MonedaAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana5\\monedaapi\\models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{470EE101-6760-48C1-A87D-0D90FE9720AD}|MonedaAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana5\\monedaapi-2.2\\models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{470EE101-6760-48C1-A87D-0D90FE9720AD}|MonedaAPI.csproj|solutionrelative:models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CashController.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI\\Controllers\\CashController.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI-2.2\\Controllers\\CashController.cs",
               "RelativeDocumentMoniker": "Controllers\\CashController.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI\\Controllers\\CashController.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI-2.2\\Controllers\\CashController.cs",
               "RelativeToolTip": "Controllers\\CashController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T13:23:40.854Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Moneda.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI\\Models\\Moneda.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI-2.2\\Models\\Moneda.cs",
               "RelativeDocumentMoniker": "Models\\Moneda.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI\\Models\\Moneda.cs",
-              "RelativeToolTip": "Models\\Moneda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI-2.2\\Models\\Moneda.cs*",
+              "RelativeToolTip": "Models\\Moneda.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T13:21:41.556Z",
               "EditorCaption": ""

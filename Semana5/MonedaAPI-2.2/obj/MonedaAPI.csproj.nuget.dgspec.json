@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI\\MonedaAPI.csproj": {}
+    "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI-2.2\\MonedaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI\\MonedaAPI.csproj": {
+    "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI-2.2\\MonedaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI\\MonedaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI-2.2\\MonedaAPI.csproj",
         "projectName": "MonedaAPI",
-        "projectPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI\\MonedaAPI.csproj",
+        "projectPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI-2.2\\MonedaAPI.csproj",
         "packagesPath": "C:\\Users\\Ignacio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI\\obj\\",
+        "outputPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI-2.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ignacio\\AppData\\Roaming\\NuGet\\NuGet.Config",

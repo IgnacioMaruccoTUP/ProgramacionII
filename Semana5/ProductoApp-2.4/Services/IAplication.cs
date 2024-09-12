@@ -7,5 +7,6 @@ namespace ProductoApp.Services
         bool AddOrUpdateProduct(Product oProduct);
         bool DeleteProduct(int code);
         List<Product> GetProducts();
+        Product GetProduct(int code);
     }
 }

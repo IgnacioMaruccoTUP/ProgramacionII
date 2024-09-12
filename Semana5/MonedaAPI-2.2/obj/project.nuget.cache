@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SFHQml6jGbE=",
+  "dgSpecHash": "dfb7vITXkMk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI\\MonedaAPI.csproj",
+  "projectFilePath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\MonedaAPI-2.2\\MonedaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ignacio\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Ignacio\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

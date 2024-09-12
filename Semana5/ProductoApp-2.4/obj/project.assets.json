@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\ProductoApp\\ProductoApp.csproj",
+      "projectUniqueName": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\ProductoApp-2.4\\ProductoApp.csproj",
       "projectName": "ProductoApp",
-      "projectPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\ProductoApp\\ProductoApp.csproj",
+      "projectPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\ProductoApp-2.4\\ProductoApp.csproj",
       "packagesPath": "C:\\Users\\Ignacio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\ProductoApp\\obj\\",
+      "outputPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana5\\ProductoApp-2.4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ignacio\\AppData\\Roaming\\NuGet\\NuGet.Config",

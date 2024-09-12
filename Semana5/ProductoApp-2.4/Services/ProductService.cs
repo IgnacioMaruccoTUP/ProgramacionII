@@ -1,4 +1,5 @@
-﻿using ProductoApp.Models;
+﻿using Microsoft.AspNetCore.Http.HttpResults;
+using ProductoApp.Models;
 
 namespace ProductoApp.Services
 {
@@ -33,7 +34,8 @@ namespace ProductoApp.Services
 
         public bool DeleteProduct(int code)
         {
-            var product = listaProductos.Find(p =>  p.Code == code);
+            var product = GetProduct(code);
+            //var product = listaProductos.Find(p =>  p.Code == code);
 
             if (product == null)
                 return false;
@@ -42,6 +44,11 @@ namespace ProductoApp.Services
             return true;
 
 
-        }            
+        }
+
+        public Product GetProduct(int code)
+        {
+            return listaProductos.Find(p => p.Code == code);
+        }
     }
 }

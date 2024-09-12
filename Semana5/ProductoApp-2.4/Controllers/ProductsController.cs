@@ -24,10 +24,13 @@ namespace ProductoApp.Controllers
         }
 
         // GET api/<ProductsController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
+        [HttpGet("{code}")]
+        public IActionResult GetById(int code)
         {
-            return "value";
+            var product = application.GetProduct(code);
+            if (product == null)
+                return NotFound("No se encontró el producto");
+            return Ok(product);
         }
 
         // POST api/<ProductsController>
