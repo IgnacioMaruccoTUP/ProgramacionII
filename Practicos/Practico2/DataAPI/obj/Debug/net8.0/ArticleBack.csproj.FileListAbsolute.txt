@@ -1,0 +1,13 @@
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\bin\Debug\net8.0\ArticleBack.deps.json
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\bin\Debug\net8.0\ArticleBack.dll
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\bin\Debug\net8.0\ArticleBack.pdb
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\ArticleBack.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\ArticleBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\ArticleBack.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\ArticleBack.AssemblyInfo.cs
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\ArticleBack.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\ArticleBack.sourcelink.json
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\ArticleBack.dll
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\refint\ArticleBack.dll
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\ArticleBack.pdb
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\ref\ArticleBack.dll

@@ -10,8 +10,9 @@ namespace DataAPI.Services
     public interface IArticleService
     {
         bool DeleteArticle(int id);
+        bool EditArticle(Article oArticle);
         List<Article> GetAllArticles();
         Article GetArticleById(int id);
-        bool SaveArticle(Article article);
+        bool SaveArticle(Article oArticle);
     }
 }

@@ -12,6 +12,7 @@ namespace DataAPI.Repositories.Contracts
         bool DeleteArticle(int id);
         List<Article> GetAllArticles();
         Article GetArticleById(int id);
-        bool SaveArticle(Article article);
+        bool SaveArticle(Article oArticle);
+        bool EditArticle(Article oArticle);
     }
 }

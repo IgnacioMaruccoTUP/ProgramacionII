@@ -475,9 +475,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\DataAPI.csproj",
-      "projectName": "DataAPI",
-      "projectPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\DataAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\ArticleBack.csproj",
+      "projectName": "ArticleBack",
+      "projectPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\ArticleBack.csproj",
       "packagesPath": "C:\\Users\\Ignacio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\obj\\",
       "projectStyle": "PackageReference",

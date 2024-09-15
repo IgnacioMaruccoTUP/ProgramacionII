@@ -234,6 +234,19 @@
           }
         }
       },
+      "ArticleBack/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "System.Data.SqlClient": "4.8.6"
+        },
+        "compile": {
+          "bin/placeholder/ArticleBack.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArticleBack.dll": {}
+        }
+      },
       "DataAPI/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -892,6 +905,11 @@
         "version.txt"
       ]
     },
+    "ArticleBack/1.0.0": {
+      "type": "project",
+      "path": "../DataAPI/ArticleBack.csproj",
+      "msbuildProject": "../DataAPI/ArticleBack.csproj"
+    },
     "DataAPI/1.0.0": {
       "type": "project",
       "path": "../DataAPI/DataAPI.csproj",
@@ -900,6 +918,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "ArticleBack >= 1.0.0",
       "DataAPI >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -932,6 +951,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\ArticleBack.csproj": {
+              "projectPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\ArticleBack.csproj"
+            },
             "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\DataAPI.csproj": {
               "projectPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\DataAPI.csproj"
             }

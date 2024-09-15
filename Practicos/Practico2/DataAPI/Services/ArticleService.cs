@@ -22,6 +22,11 @@ namespace DataAPI.Services
             return _repository.DeleteArticle(id);
         }
 
+        public bool EditArticle(Article oArticle)
+        {
+            return _repository.EditArticle(oArticle);
+        }
+
         public List<Article> GetAllArticles()
         {
             return _repository.GetAllArticles();

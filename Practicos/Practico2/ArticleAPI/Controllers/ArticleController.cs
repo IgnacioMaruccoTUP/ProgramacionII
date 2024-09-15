@@ -40,7 +40,10 @@ namespace ArticleAPI.Controllers
         {
             try
             {
-                return Ok("Se registro exitosamente el articulo");
+                if (oService.SaveArticle(oArticle))
+                    return Ok($"Articulo <{oArticle.ToString()}> registrado exitosamente");
+                else
+                    return BadRequest($"No se pudo registrar el artículo <{oArticle.ToString()}>");
             }
             catch (Exception)
             {
@@ -49,9 +52,20 @@ namespace ArticleAPI.Controllers
         }
 
         // PUT api/<ArticleController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpPut]
+        public IActionResult Put([FromBody] Article oArticle)
         {
+            try
+            {
+                if (oService.EditArticle(oArticle))
+                    return Ok("Se edito correctamente el artículo.");
+                else
+                    return BadRequest("No se pudo editar el artículo.");
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Error interno");
+            }
         }
 
         // DELETE api/<ArticleController>/5

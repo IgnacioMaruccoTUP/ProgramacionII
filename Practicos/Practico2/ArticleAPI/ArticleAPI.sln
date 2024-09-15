@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleAPI", "ArticleAPI.csproj", "{A4B234DD-97F7-4869-9A2A-BAB02037B20A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticleAPI", "ArticleAPI.csproj", "{A4B234DD-97F7-4869-9A2A-BAB02037B20A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAPI", "..\DataAPI\DataAPI.csproj", "{5577E560-8A17-44E8-9BBE-93F6F570B809}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticleBack", "..\DataAPI\ArticleBack.csproj", "{5577E560-8A17-44E8-9BBE-93F6F570B809}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -21,6 +21,17 @@ namespace DataAPI.Repositories.Implementations
             return DataHelper.GetInstance().ExecuteSPDML("SP_BAJA_ARTICULO", lstParameters) == 1;
         }
 
+        public bool EditArticle(Article oArticle)
+        {
+            List<SqlParameter> lstParameters = new List<SqlParameter>();
+            lstParameters.Add(new SqlParameter("@id_articulo", oArticle.Code));
+            lstParameters.Add(new SqlParameter("@nombre", oArticle.Name));
+            lstParameters.Add(new SqlParameter("@precio_unitario", oArticle.UnitPrice));
+            lstParameters.Add(new SqlParameter("@activo", oArticle.Active));
+
+            return DataHelper.GetInstance().ExecuteSPDML("SP_EDITAR_ARTICULO", lstParameters) == 1;
+        }
+
         public List<Article> GetAllArticles()
         {
             DataTable dataTable = DataHelper.GetInstance().ExecuteSPQuery("SP_RECUPERAR_ARTICULOS", null);
