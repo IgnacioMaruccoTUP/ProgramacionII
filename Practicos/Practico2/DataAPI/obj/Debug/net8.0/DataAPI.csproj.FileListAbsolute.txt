@@ -1,0 +1,13 @@
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\bin\Debug\net8.0\DataAPI.deps.json
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\bin\Debug\net8.0\DataAPI.dll
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\bin\Debug\net8.0\DataAPI.pdb
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\DataAPI.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\DataAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\DataAPI.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\DataAPI.AssemblyInfo.cs
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\DataAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\DataAPI.sourcelink.json
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\DataAPI.dll
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\refint\DataAPI.dll
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\DataAPI.pdb
+C:\Users\Ignacio\Documents\TUP\1ro\ProgramacionII\Practicos\Practico2\DataAPI\obj\Debug\net8.0\ref\DataAPI.dll
