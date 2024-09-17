@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v8.0": {
       "ArticleAPI/1.0.0": {
         "dependencies": {
-          "ArticleBack": "1.0.0",
           "DataAPI": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
@@ -138,12 +137,12 @@
         }
       },
       "System.Security.Principal.Windows/4.7.0": {},
-      "ArticleBack/1.0.0": {
+      "DataAPI/1.0.0": {
         "dependencies": {
           "System.Data.SqlClient": "4.8.6"
         },
         "runtime": {
-          "ArticleBack.dll": {
+          "DataAPI.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -262,7 +261,7 @@
       "path": "system.security.principal.windows/4.7.0",
       "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
     },
-    "ArticleBack/1.0.0": {
+    "DataAPI/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
