@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticleAPI", "ArticleAPI.csproj", "{A4B234DD-97F7-4869-9A2A-BAB02037B20A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticleBack", "..\DataAPI\ArticleBack.csproj", "{5577E560-8A17-44E8-9BBE-93F6F570B809}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAPI", "..\DataAPI\DataAPI.csproj", "{5577E560-8A17-44E8-9BBE-93F6F570B809}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

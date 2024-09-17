@@ -3,11 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\ArticleAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4B234DD-97F7-4869-9A2A-BAB02037B20A}|ArticleAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\practico2\\articleapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4B234DD-97F7-4869-9A2A-BAB02037B20A}|ArticleAPI.csproj|solutionrelative:controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4B234DD-97F7-4869-9A2A-BAB02037B20A}|ArticleAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\practico2\\articleapi\\articleapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A4B234DD-97F7-4869-9A2A-BAB02037B20A}|ArticleAPI.csproj|solutionrelative:articleapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5577E560-8A17-44E8-9BBE-93F6F570B809}|..\\DataAPI\\ArticleBack.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\practico2\\dataapi\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5577E560-8A17-44E8-9BBE-93F6F570B809}|..\\DataAPI\\ArticleBack.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\practico2\\dataapi\\repositories\\implementations\\articlerepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B234DD-97F7-4869-9A2A-BAB02037B20A}|ArticleAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\practico2\\articleapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B234DD-97F7-4869-9A2A-BAB02037B20A}|ArticleAPI.csproj|solutionrelative:controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5577E560-8A17-44E8-9BBE-93F6F570B809}|..\\DataAPI\\ArticleBack.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\practico2\\dataapi\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -20,41 +27,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ArticleController.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\ArticleAPI\\Controllers\\ArticleController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ArticleController.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\ArticleAPI\\Controllers\\ArticleController.cs",
-              "RelativeToolTip": "Controllers\\ArticleController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T02:52:58.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArticleRepositoryADO.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\Repositories\\Implementations\\ArticleRepositoryADO.cs",
-              "RelativeDocumentMoniker": "..\\DataAPI\\Repositories\\Implementations\\ArticleRepositoryADO.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\Repositories\\Implementations\\ArticleRepositoryADO.cs",
-              "RelativeToolTip": "..\\DataAPI\\Repositories\\Implementations\\ArticleRepositoryADO.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T02:52:39.119Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleAPI",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\ArticleAPI\\ArticleAPI.csproj",
+              "RelativeDocumentMoniker": "ArticleAPI.csproj",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\ArticleAPI\\ArticleAPI.csproj",
+              "RelativeToolTip": "ArticleAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T03:11:33.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "..\\DataAPI\\Entities\\Article.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\Entities\\Article.cs",
+              "RelativeToolTip": "..\\DataAPI\\Entities\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:00:01.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\ArticleAPI\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\ArticleAPI\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "Controllers\\ArticleController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:52:58.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ArticleRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\Repositories\\Implementations\\ArticleRepositoryADO.cs",
+              "RelativeDocumentMoniker": "..\\DataAPI\\Repositories\\Implementations\\ArticleRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\Repositories\\Implementations\\ArticleRepositoryADO.cs",
+              "RelativeToolTip": "..\\DataAPI\\Repositories\\Implementations\\ArticleRepositoryADO.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAewE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:52:39.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DataHelper.cs",
               "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico2\\DataAPI\\Utils\\DataHelper.cs",
               "RelativeDocumentMoniker": "..\\DataAPI\\Utils\\DataHelper.cs",
