@@ -1,0 +1,6 @@
+1- Crear proyecto webapi
+2- instalar dependencias
+3- crear carpeta models
+4-crear clase AppDbContext
+5- setear connectionString
+6- correr la migracion
