@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana6\\efwebapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|solutionrelative:controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana6\\efwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana6\\efwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana6\\efwebapi\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|solutionrelative:data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana6\\efwebapi\\data\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|solutionrelative:data\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana6\\efwebapi\\data\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|solutionrelative:data\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana6\\efwebapi\\data\\models\\librosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|solutionrelative:data\\models\\librosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana6\\efwebapi\\data\\repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|solutionrelative:data\\repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana6\\efwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3020658B-8766-4331-853B-4B89D69AB265}|EFWebAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T18:45:50.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T18:45:45.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:44:13.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:33:27.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Data\\Repositories\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\LibroRepository.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Data\\Repositories\\LibroRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\LibroRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:06:05.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Data\\Repositories\\ILibroRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ILibroRepository.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Data\\Repositories\\ILibroRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ILibroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:03:53.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Data\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Data\\Models\\Autor.cs",
+              "RelativeToolTip": "Data\\Models\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:02:27.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Data\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Data\\Models\\Libro.cs",
+              "RelativeToolTip": "Data\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:57:12.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibrosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Data\\Models\\LibrosDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\LibrosDbContext.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana6\\EFWebAPI\\Data\\Models\\LibrosDbContext.cs",
+              "RelativeToolTip": "Data\\Models\\LibrosDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:57:02.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
