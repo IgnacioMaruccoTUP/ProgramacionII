@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\Clase24-09-24\\TurnoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\clase24-09-24\\turnoapi\\repositorios\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:repositorios\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\clase24-09-24\\turnoapi\\repositorios\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:repositorios\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\clase24-09-24\\turnoapi\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\clase24-09-24\\turnoapi\\services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\clase24-09-24\\turnoapi\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\clase24-09-24\\turnoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\Clase24-09-24\\TurnoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\Clase24-09-24\\TurnoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:12:13.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TurnoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\Clase24-09-24\\TurnoApi\\Controllers\\TurnoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TurnoController.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\Clase24-09-24\\TurnoApi\\Controllers\\TurnoController.cs",
+              "RelativeToolTip": "Controllers\\TurnoController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:07:29.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\Clase24-09-24\\TurnoApi\\Repositorios\\ITurnoRepository.cs",
+              "RelativeDocumentMoniker": "Repositorios\\ITurnoRepository.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\Clase24-09-24\\TurnoApi\\Repositorios\\ITurnoRepository.cs",
+              "RelativeToolTip": "Repositorios\\ITurnoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:44:48.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\Clase24-09-24\\TurnoApi\\Repositorios\\TurnoRepository.cs",
+              "RelativeDocumentMoniker": "Repositorios\\TurnoRepository.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\Clase24-09-24\\TurnoApi\\Repositorios\\TurnoRepository.cs",
+              "RelativeToolTip": "Repositorios\\TurnoRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAArwDQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:17:45.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\Clase24-09-24\\TurnoApi\\Services\\ITurnoService.cs",
+              "RelativeDocumentMoniker": "Services\\ITurnoService.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\Clase24-09-24\\TurnoApi\\Services\\ITurnoService.cs",
+              "RelativeToolTip": "Services\\ITurnoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:48:13.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\Clase24-09-24\\TurnoApi\\Services\\TurnoService.cs",
+              "RelativeDocumentMoniker": "Services\\TurnoService.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\Clase24-09-24\\TurnoApi\\Services\\TurnoService.cs",
+              "RelativeToolTip": "Services\\TurnoService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:09:59.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

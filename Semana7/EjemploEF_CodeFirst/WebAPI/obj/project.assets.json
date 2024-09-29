@@ -3422,11 +3422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Ignacio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ignacio\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\desktop\\drive-download-20240925t003511z-001\\412366\\webapi\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\desktop\\drive-download-20240925t003511z-001\\412366\\webapi\\repositories\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:repositories\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\desktop\\drive-download-20240925t003511z-001\\412366\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\desktop\\drive-download-20240925t003511z-001\\412366\\webapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\desktop\\drive-download-20240925t003511z-001\\412366\\webapi\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\desktop\\drive-download-20240925t003511z-001\\412366\\webapi\\repositories\\contracts\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:repositories\\contracts\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\desktop\\drive-download-20240925t003511z-001\\412366\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\desktop\\drive-download-20240925t003511z-001\\412366\\webapi\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\desktop\\drive-download-20240925t003511z-001\\412366\\webapi\\repositories\\implementations\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\ejemploef_codefirst\\webapi\\repositories\\implementations\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:repositories\\implementations\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\desktop\\drive-download-20240925t003511z-001\\412366\\webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\ejemploef_codefirst\\webapi\\repositories\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:repositories\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\ejemploef_codefirst\\webapi\\repositories\\contracts\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:repositories\\contracts\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\ejemploef_codefirst\\webapi\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\ejemploef_codefirst\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\ejemploef_codefirst\\webapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\ejemploef_codefirst\\webapi\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\ejemploef_codefirst\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\ejemploef_codefirst\\webapi\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\ejemploef_codefirst\\webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\desktop\\drive-download-20240925t003511z-001\\412366\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana7\\ejemploef_codefirst\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{98483E2E-354D-4031-80E6-FE87F7DE18E3}|WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,11 +66,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAYwCYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,11 +78,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Repositories\\Implementations\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Repositories\\Implementations\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implementations\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Repositories\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Repositories\\Implementations\\UserRepository.cs",
               "RelativeToolTip": "Repositories\\Implementations\\UserRepository.cs",
               "ViewState": "AgIAABMAAAAAAAAAAIAwwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,45 +93,48 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Repositories\\Contracts\\IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Repositories\\Contracts\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Contracts\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Repositories\\Contracts\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Repositories\\Contracts\\IUserRepository.cs",
               "RelativeToolTip": "Repositories\\Contracts\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAfAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T00:36:13.533Z"
+              "WhenOpened": "2024-09-25T00:36:13.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Repositories\\Implementations\\RolRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\RolRepository.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Repositories\\Implementations\\RolRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\RolRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:36:13.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Repositories\\Contracts\\IRolRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRolRepository.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Repositories\\Contracts\\IRolRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRolRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:36:13.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "RolRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Repositories\\Implementations\\RolRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementations\\RolRepository.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Repositories\\Implementations\\RolRepository.cs",
-              "RelativeToolTip": "Repositories\\Implementations\\RolRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T00:36:13.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRolRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Repositories\\Contracts\\IRolRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRolRepository.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Repositories\\Contracts\\IRolRepository.cs",
-              "RelativeToolTip": "Repositories\\Contracts\\IRolRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T00:36:13.545Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "RolController.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Controllers\\RolController.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Controllers\\RolController.cs",
               "RelativeDocumentMoniker": "Controllers\\RolController.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Controllers\\RolController.cs",
               "RelativeToolTip": "Controllers\\RolController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,11 +142,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,9 +156,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -163,11 +166,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Models\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Models\\AppDbContext.cs",
               "RelativeToolTip": "Models\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,11 +178,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Models\\Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Models\\Rol.cs",
               "RelativeDocumentMoniker": "Models\\Rol.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Models\\Rol.cs",
               "RelativeToolTip": "Models\\Rol.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,9 +192,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Ignacio\\Desktop\\drive-download-20240925T003511Z-001\\412366\\WebAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana7\\EjemploEF_CodeFirst\\WebAPI\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
