@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana3\\bancoapp\\data\\accountrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|solutionrelative:data\\accountrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana3\\bancoapp\\domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|solutionrelative:domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana3\\bancoapp\\domain\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|solutionrelative:domain\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana3\\bancoapp\\data\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|solutionrelative:data\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana3\\bancoapp\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|solutionrelative:data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana3\\bancoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana3\\bancoapp\\services\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|solutionrelative:services\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\semana3\\bancoapp\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116EE991-3320-4C4E-8657-D6F626CB76F5}|BancoApp.csproj|solutionrelative:domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Services\\AccountManager.cs",
+              "RelativeDocumentMoniker": "Services\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Services\\AccountManager.cs",
+              "RelativeToolTip": "Services\\AccountManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:53:10.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Data\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Data\\IAccountRepository.cs",
+              "RelativeToolTip": "Data\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:40:18.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Domain\\Account.cs",
+              "RelativeDocumentMoniker": "Domain\\Account.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Domain\\Account.cs",
+              "RelativeToolTip": "Domain\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:32:50.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:32:46.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Domain\\AccountType.cs",
+              "RelativeDocumentMoniker": "Domain\\AccountType.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Domain\\AccountType.cs",
+              "RelativeToolTip": "Domain\\AccountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:31:32.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Domain\\Client.cs",
+              "RelativeDocumentMoniker": "Domain\\Client.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Domain\\Client.cs",
+              "RelativeToolTip": "Domain\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:29:38.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Data\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Data\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Data\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Data\\Utils\\DataHelper.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA6wDMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:19:21.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Data\\AccountRepositoryADO.cs",
+              "RelativeDocumentMoniker": "Data\\AccountRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Semana3\\BancoApp\\Data\\AccountRepositoryADO.cs",
+              "RelativeToolTip": "Data\\AccountRepositoryADO.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:19:18.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

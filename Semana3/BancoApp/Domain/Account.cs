@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace BancoApp.Domain
 {
-    public class Cuenta
+    public class Account
     {
         public int Cbu { get; set; }
-        public TipoCuenta TipoCuenta { get; set; }
+        public AccountType AccountType { get; set; }
         public float Saldo { get; set; }
-        public Cliente Cliente { get; set; }
+        public Client Cliente { get; set; }
         public DateTime UltimoMovimiento { get; set; }
 
         public override string? ToString()
         {
-            return $"CBU: {Cbu} | Tipo de Cuenta: {TipoCuenta} | Saldo: {Saldo} | Cliente: {Cliente} | Ultimo Movimiento: {UltimoMovimiento}";
+            return $"CBU: {Cbu} | Tipo de Cuenta: {AccountType} | Saldo: {Saldo} | Cliente: {Cliente} | Ultimo Movimiento: {UltimoMovimiento}";
         }
     }
 }

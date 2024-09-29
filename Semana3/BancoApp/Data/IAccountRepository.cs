@@ -7,9 +7,11 @@ using System.Threading.Tasks;
 
 namespace BancoApp.Data
 {
-    public interface ICuentaRepository
+    public interface IAccountRepository
     {
-        bool Save(Cuenta oCuenta);
-        List<Cuenta> GetAll();
+        List<Account>? GetAll();
+        bool Save(Account oAccount);
+        Account GetById(int id);
+        bool Delete(int id);
     }
 }

@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace BancoApp.Domain
 {
-    public class TipoCuenta
+    public class AccountType
     {
         public int Id { get; set; }
         public string Nombre { get; set; }
+
+        public override string? ToString()
+        {
+            return $"{Nombre}";
+        }
     }
 }

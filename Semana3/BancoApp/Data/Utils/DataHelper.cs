@@ -20,7 +20,7 @@ namespace BancoApp.Data.Utils
 
         private DataHelper()
         {
-            _connection = new SqlConnection(Properties.Resources.cnnStringUTN);
+            _connection = new SqlConnection(Properties.Resources.cnnStringLocal);
         }
 
         public static DataHelper GetInstance()

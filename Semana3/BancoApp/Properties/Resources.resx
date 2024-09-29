@@ -120,4 +120,7 @@
   <data name="cnnStringUTN" xml:space="preserve">
     <value>Data Source=172.16.10.196;Initial Catalog=Banco_412366;User ID=alumno1w1;password = alumno1w1</value>
   </data>
+  <data name="cnnStringLocal" xml:space="preserve">
+    <value>Data Source=DESKTOP-9P35AP4\SQLEXPRESS;Initial Catalog=Banco;Integrated Security=True;TrustServerCertificate=True</value>
+  </data>
 </root>
