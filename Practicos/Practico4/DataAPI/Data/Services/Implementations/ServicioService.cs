@@ -32,7 +32,7 @@ namespace DataAPI.Data.Services.Implementations
             return await _servicioRepository.GetByFilters(name, onSale);
         }
 
-        public async Task<TServicio>? GetById(int id)
+        public async Task<TServicio?> GetById(int id)
         {
             return await _servicioRepository.GetById(id);
         }

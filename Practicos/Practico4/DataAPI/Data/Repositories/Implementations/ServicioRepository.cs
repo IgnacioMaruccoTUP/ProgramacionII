@@ -45,7 +45,7 @@ namespace DataAPI.Data.Repositories.Implementations
                 return await _context.TServicios.Where(s => s.EnPromocion == onSale && !s.FechaCancelacion.HasValue).ToListAsync();
         }
 
-        public async Task<TServicio>? GetById(int id)
+        public async Task<TServicio?> GetById(int id)
         {
             return await _context.TServicios.FindAsync(id);
         }

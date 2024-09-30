@@ -11,7 +11,7 @@ namespace DataAPI.Data.Repositories.Contracts
     {
         Task<bool> Delete(int id, string motivo);
         Task<List<TServicio>> GetAll();
-        Task<TServicio>? GetById(int id);
+        Task<TServicio?> GetById(int id);
         Task<List<TServicio>> GetByFilters(string? name, string? onSale);
         Task<bool> Save(TServicio oServicio);
         Task<bool> Update(TServicio oServicio);
