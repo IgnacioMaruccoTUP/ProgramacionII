@@ -60,16 +60,32 @@ namespace EFServiciosAPI.Controllers
             }
         }
 
+        private bool IsValid(TServicio oServicio)
+        {
+            if (!string.IsNullOrWhiteSpace(oServicio.Nombre) && !string.IsNullOrWhiteSpace(oServicio.EnPromocion)
+                && oServicio.Costo > 0 && oServicio.Id > 0)
+            {
+                return true;
+            }
+            else
+                return false;
+        }
+
         // POST api/<ServicioController>
         [HttpPost]
-        public async Task<IActionResult> Post([FromBody] TServicio oServicio)
+        public async Task<IActionResult> PostService([FromBody] TServicio oServicio)
         {
             try
             {
-                if (await _servicioService.Save(oServicio))
+                if (IsValid(oServicio))
+                {
+                    await _servicioService.Save(oServicio);
                     return Ok("Servicio registrado exitosamente.");
+                }
                 else
-                    return BadRequest("No se pudo registrar servicio.");
+                {
+                    return BadRequest("No se pudo registrar servicio. Chequear datos ingresados.");
+                }
             }
             catch (Exception)
             {
@@ -79,14 +95,22 @@ namespace EFServiciosAPI.Controllers
 
         // PUT api/<ServicioController>/5
         [HttpPut]
-        public async Task<IActionResult> Put([FromBody] TServicio oServicio)
+        public async Task<IActionResult> PutService([FromBody] TServicio oServicio)
         {
             try
             {
-                if (await _servicioService.Update(oServicio))
-                    return Ok("Servicio actualizado exitosamente");
+                if (IsValid(oServicio))
+                {
+                    var serviceToDelete = await _servicioService.GetById(oServicio.Id);
+                    if (serviceToDelete == null)
+                        return NotFound("No se encuentra el servicio que intenta actualizar");
+                    else if (await _servicioService.Update(oServicio))
+                        return Ok("Servicio actualizado exitosamente");
+                    else
+                        return BadRequest("No se pudo actualizar el servicio");
+                }
                 else
-                    return BadRequest("No se pudo actualizar el servicio");
+                    return BadRequest("No se pudo actualizar el servicio. Chequear datos ingresados.");
             }
             catch (Exception)
             {

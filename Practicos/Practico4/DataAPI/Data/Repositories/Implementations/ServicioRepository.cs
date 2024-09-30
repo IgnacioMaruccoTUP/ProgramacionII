@@ -47,7 +47,8 @@ namespace DataAPI.Data.Repositories.Implementations
 
         public async Task<TServicio?> GetById(int id)
         {
-            return await _context.TServicios.FindAsync(id);
+            return await _context.TServicios.Where(s => s.Id == id && !s.FechaCancelacion.HasValue).FirstOrDefaultAsync();
+            //return await _context.TServicios.FindAsync(id);
         }
 
         public async Task<bool> Save(TServicio oServicio)

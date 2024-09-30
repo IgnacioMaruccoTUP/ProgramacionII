@@ -11,7 +11,7 @@
   },
   {
     "ContainingType": "EFServiciosAPI.Controllers.ServicioController",
-    "Method": "Post",
+    "Method": "PostService",
     "RelativePath": "api/Servicio",
     "HttpMethod": "POST",
     "IsController": true,
@@ -27,7 +27,7 @@
   },
   {
     "ContainingType": "EFServiciosAPI.Controllers.ServicioController",
-    "Method": "Put",
+    "Method": "PutService",
     "RelativePath": "api/Servicio",
     "HttpMethod": "PUT",
     "IsController": true,
