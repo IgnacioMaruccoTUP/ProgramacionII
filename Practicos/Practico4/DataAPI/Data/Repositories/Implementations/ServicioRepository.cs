@@ -35,7 +35,17 @@ namespace DataAPI.Data.Repositories.Implementations
             return await _context.TServicios.Where(s => !s.FechaCancelacion.HasValue).ToListAsync();
         }
 
-        public async Task<TServicio> GetById(int id)
+        public async Task<List<TServicio>> GetByFilters(string? name, string? onSale)
+        {
+            if(name != null && onSale != null)
+                return await _context.TServicios.Where(s => s.Nombre.Contains(name) && s.EnPromocion == onSale && !s.FechaCancelacion.HasValue).ToListAsync();
+            else if(name != null)
+                return await _context.TServicios.Where(s => s.Nombre.Contains(name) && !s.FechaCancelacion.HasValue).ToListAsync();
+            else
+                return await _context.TServicios.Where(s => s.EnPromocion == onSale && !s.FechaCancelacion.HasValue).ToListAsync();
+        }
+
+        public async Task<TServicio>? GetById(int id)
         {
             return await _context.TServicios.FindAsync(id);
         }

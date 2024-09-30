@@ -43,7 +43,7 @@
   },
   {
     "ContainingType": "EFServiciosAPI.Controllers.ServicioController",
-    "Method": "Get",
+    "Method": "GetById",
     "RelativePath": "api/Servicio/{id}",
     "HttpMethod": "GET",
     "IsController": true,
@@ -72,6 +72,27 @@
       },
       {
         "Name": "motivo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EFServiciosAPI.Controllers.ServicioController",
+    "Method": "GetByFilters",
+    "RelativePath": "api/Servicio/Filters",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "onSale",
         "Type": "System.String",
         "IsRequired": false
       }

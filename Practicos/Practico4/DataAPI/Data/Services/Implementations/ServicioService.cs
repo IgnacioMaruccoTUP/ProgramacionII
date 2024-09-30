@@ -11,35 +11,40 @@ namespace DataAPI.Data.Services.Implementations
 {
     public class ServicioService : IServicioService
     {
-        private readonly IServicioRepository _context;
-        public ServicioService(IServicioRepository context)
+        private readonly IServicioRepository _servicioRepository;
+        public ServicioService(IServicioRepository servicioRepository)
         {
-            _context = context;
+            _servicioRepository = servicioRepository;
         }
 
         public async Task<bool> Delete(int id, string motivo)
         {
-            return await _context.Delete(id, motivo);
+            return await _servicioRepository.Delete(id, motivo);
         }
 
         public async Task<List<TServicio>> GetAll()
         {
-            return await _context.GetAll();
+            return await _servicioRepository.GetAll();
         }
 
-        public async Task<TServicio> GetById(int id)
+        public async Task<List<TServicio>> GetByFilters(string? name, string? onSale)
         {
-            return await _context.GetById(id);
+            return await _servicioRepository.GetByFilters(name, onSale);
+        }
+
+        public async Task<TServicio>? GetById(int id)
+        {
+            return await _servicioRepository.GetById(id);
         }
 
         public async Task<bool> Save(TServicio oServicio)
         {
-            return await _context.Save(oServicio);
+            return await _servicioRepository.Save(oServicio);
         }
 
         public async Task<bool> Update(TServicio oServicio)
         {
-            return await _context.Update(oServicio);
+            return await _servicioRepository.Update(oServicio);
         }
     }
 }

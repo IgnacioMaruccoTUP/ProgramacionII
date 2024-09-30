@@ -31,7 +31,7 @@ namespace EFServiciosAPI.Controllers
 
         // GET api/<ServicioController>/5
         [HttpGet("{id}")]
-        public async Task<IActionResult> Get(int id)
+        public async Task<IActionResult> GetById(int id)
         {
             try
             {
@@ -40,6 +40,19 @@ namespace EFServiciosAPI.Controllers
                     return Ok(oServicio);
                 else
                     return NotFound($"No se encontró el servicio con el ID ingresado. ID: <{id}>");
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Error interno");
+            }
+        }
+        //onSale = N o S, strings.
+        [HttpGet("Filters")]
+        public async Task<IActionResult> GetByFilters(string? name, string? onSale)
+        {
+            try
+            {
+                return Ok(await _servicioService.GetByFilters(name, onSale));
             }
             catch (Exception)
             {
