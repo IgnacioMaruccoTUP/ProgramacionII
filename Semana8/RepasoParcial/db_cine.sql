@@ -1,0 +1,193 @@
+CREATE DATABASE [db_cine]
+ CONTAINMENT = NONE
+ ON  PRIMARY 
+( NAME = N'db_cine', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\DATA\db_cine.mdf' , SIZE = 8192KB , MAXSIZE = UNLIMITED, FILEGROWTH = 65536KB )
+ LOG ON 
+( NAME = N'db_cine_log', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\DATA\db_cine_log.ldf' , SIZE = 8192KB , MAXSIZE = 2048GB , FILEGROWTH = 65536KB )
+ WITH CATALOG_COLLATION = DATABASE_DEFAULT, LEDGER = OFF
+GO
+ALTER DATABASE [db_cine] SET COMPATIBILITY_LEVEL = 160
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [db_cine].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [db_cine] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [db_cine] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [db_cine] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [db_cine] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [db_cine] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [db_cine] SET AUTO_CLOSE ON 
+GO
+ALTER DATABASE [db_cine] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [db_cine] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [db_cine] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [db_cine] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [db_cine] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [db_cine] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [db_cine] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [db_cine] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [db_cine] SET  ENABLE_BROKER 
+GO
+ALTER DATABASE [db_cine] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [db_cine] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [db_cine] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [db_cine] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [db_cine] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [db_cine] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+ALTER DATABASE [db_cine] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [db_cine] SET RECOVERY SIMPLE 
+GO
+ALTER DATABASE [db_cine] SET  MULTI_USER 
+GO
+ALTER DATABASE [db_cine] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [db_cine] SET DB_CHAINING OFF 
+GO
+ALTER DATABASE [db_cine] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+ALTER DATABASE [db_cine] SET TARGET_RECOVERY_TIME = 60 SECONDS 
+GO
+ALTER DATABASE [db_cine] SET DELAYED_DURABILITY = DISABLED 
+GO
+ALTER DATABASE [db_cine] SET ACCELERATED_DATABASE_RECOVERY = OFF  
+GO
+ALTER DATABASE [db_cine] SET QUERY_STORE = ON
+GO
+ALTER DATABASE [db_cine] SET QUERY_STORE (OPERATION_MODE = READ_WRITE, CLEANUP_POLICY = (STALE_QUERY_THRESHOLD_DAYS = 30), DATA_FLUSH_INTERVAL_SECONDS = 900, INTERVAL_LENGTH_MINUTES = 60, MAX_STORAGE_SIZE_MB = 1000, QUERY_CAPTURE_MODE = AUTO, SIZE_BASED_CLEANUP_MODE = AUTO, MAX_PLANS_PER_QUERY = 200, WAIT_STATS_CAPTURE_MODE = ON)
+GO
+USE [db_cine]
+GO
+/****** Object:  Table [dbo].[Generos]    Script Date: 1/10/2024 18:21:57 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Generos](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[nombre] [varchar](50) NOT NULL,
+ CONSTRAINT [PK_Generos] PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Peliculas]    Script Date: 1/10/2024 18:21:57 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Peliculas](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[titulo] [varchar](100) NOT NULL,
+	[director] [varchar](50) NOT NULL,
+	[anio] [int] NOT NULL,
+	[estreno] [bit] NOT NULL,
+	[id_genero] [int] NOT NULL,
+	[fecha_baja] [datetime] NULL,
+	[motivo_baja] [varchar](100) NULL,
+ CONSTRAINT [PK_Peliculas] PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+SET IDENTITY_INSERT [dbo].[Generos] ON 
+GO
+INSERT [dbo].[Generos] ([id], [nombre]) VALUES (2, N'Accion')
+GO
+INSERT [dbo].[Generos] ([id], [nombre]) VALUES (3, N'Comedia')
+GO
+SET IDENTITY_INSERT [dbo].[Generos] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Peliculas] ON 
+GO
+INSERT [dbo].[Peliculas] ([id], [titulo], [director], [anio], [estreno], [id_genero], [fecha_baja], [motivo_baja]) VALUES (4, N'LOTR', N'PEDRO JAKSON', 2001, 1, 2, CAST(N'2024-10-01T16:12:52.107' AS DateTime), N'Porque pinto')
+GO
+INSERT [dbo].[Peliculas] ([id], [titulo], [director], [anio], [estreno], [id_genero], [fecha_baja], [motivo_baja]) VALUES (5, N'string', N'string', 2014, 1, 2, NULL, NULL)
+GO
+INSERT [dbo].[Peliculas] ([id], [titulo], [director], [anio], [estreno], [id_genero], [fecha_baja], [motivo_baja]) VALUES (6, N'asdasd', N'asdasdasd', 2019, 1, 2, NULL, NULL)
+GO
+INSERT [dbo].[Peliculas] ([id], [titulo], [director], [anio], [estreno], [id_genero], [fecha_baja], [motivo_baja]) VALUES (7, N'Peliculon', N'acme', 2020, 1, 3, NULL, NULL)
+GO
+SET IDENTITY_INSERT [dbo].[Peliculas] OFF
+GO
+ALTER TABLE [dbo].[Peliculas]  WITH CHECK ADD  CONSTRAINT [FK_Peliculas_Generos] FOREIGN KEY([id_genero])
+REFERENCES [dbo].[Generos] ([id])
+GO
+ALTER TABLE [dbo].[Peliculas] CHECK CONSTRAINT [FK_Peliculas_Generos]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_ACTUALIZAR_PELICULA]    Script Date: 1/10/2024 18:21:57 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [dbo].[SP_ACTUALIZAR_PELICULA]
+@id int
+AS
+BEGIN
+	UPDATE Peliculas SET estreno = 1
+	WHERE id = @id
+	AND estreno = 0
+END
+GO
+/****** Object:  StoredProcedure [dbo].[SP_CONSULTAR_PELICULAS]    Script Date: 1/10/2024 18:21:57 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [dbo].[SP_CONSULTAR_PELICULAS]
+AS
+BEGIN
+	SELECT t.*, t1.nombre
+	FROM Peliculas t, Generos t1
+	WHERE t.id_genero = t1.id
+	AND t.estreno = 1
+END
+GO
+/****** Object:  StoredProcedure [dbo].[SP_INSERTAR_PELICULA]    Script Date: 1/10/2024 18:21:57 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [dbo].[SP_INSERTAR_PELICULA]
+@tit varchar(100),
+@director varchar(50),
+@anio int,
+@genero int
+
+AS
+BEGIN
+
+	INSERT INTO Peliculas (titulo, director, anio, estreno, id_genero)
+	VALUES(@tit, @director, @anio, 1, @genero);
+END
+GO
+USE [master]
+GO
+ALTER DATABASE [db_cine] SET  READ_WRITE 
+GO
