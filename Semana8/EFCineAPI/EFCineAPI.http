@@ -1,0 +1,6 @@
+@EFCineAPI_HostAddress = http://localhost:5111
+
+GET {{EFCineAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
