@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|c:\\users\\ignacio\\source\\repos\\efbancoapi\\data\\repositories\\implementations\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|solutionrelative:data\\repositories\\implementations\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|c:\\users\\ignacio\\source\\repos\\efbancoapi\\data\\repositories\\contracts\\icuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|solutionrelative:data\\repositories\\contracts\\icuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|c:\\users\\ignacio\\source\\repos\\efbancoapi\\data\\services\\implementations\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|solutionrelative:data\\services\\implementations\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|c:\\users\\ignacio\\source\\repos\\efbancoapi\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|solutionrelative:controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|c:\\users\\ignacio\\source\\repos\\efbancoapi\\data\\services\\contracts\\icuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|solutionrelative:data\\services\\contracts\\icuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|c:\\users\\ignacio\\source\\repos\\efbancoapi\\data\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|solutionrelative:data\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|c:\\users\\ignacio\\source\\repos\\efbancoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|c:\\users\\ignacio\\source\\repos\\efbancoapi\\data\\models\\tipocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|solutionrelative:data\\models\\tipocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|c:\\users\\ignacio\\source\\repos\\efbancoapi\\data\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|solutionrelative:data\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|c:\\users\\ignacio\\source\\repos\\efbancoapi\\data\\models\\bancodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1209F3F2-5EFA-467C-8D77-AF9F1E0694BE}|EFBancoAPI.csproj|solutionrelative:data\\models\\bancodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Models\\Cliente.cs",
+              "RelativeToolTip": "Data\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T00:16:02.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BancoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Models\\BancoDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\BancoDbContext.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Models\\BancoDbContext.cs",
+              "RelativeToolTip": "Data\\Models\\BancoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T00:13:20.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Controllers\\CuentasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CuentasController.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Controllers\\CuentasController.cs",
+              "RelativeToolTip": "Controllers\\CuentasController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAQwIgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:16:45.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:04:28.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Services\\Implementations\\CuentaService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\Implementations\\CuentaService.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Services\\Implementations\\CuentaService.cs",
+              "RelativeToolTip": "Data\\Services\\Implementations\\CuentaService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:02:54.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICuentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Services\\Contracts\\ICuentaService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\Contracts\\ICuentaService.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Services\\Contracts\\ICuentaService.cs",
+              "RelativeToolTip": "Data\\Services\\Contracts\\ICuentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:02:29.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Repositories\\Implementations\\CuentaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\CuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Repositories\\Implementations\\CuentaRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\CuentaRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwC8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:02:19.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Repositories\\Contracts\\ICuentaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Contracts\\ICuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Repositories\\Contracts\\ICuentaRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Contracts\\ICuentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:02:11.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Models\\TipoCuenta.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\TipoCuenta.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Models\\TipoCuenta.cs",
+              "RelativeToolTip": "Data\\Models\\TipoCuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:00:55.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Models\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\source\\repos\\EFBancoAPI\\Data\\Models\\Cuenta.cs",
+              "RelativeToolTip": "Data\\Models\\Cuenta.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:00:47.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

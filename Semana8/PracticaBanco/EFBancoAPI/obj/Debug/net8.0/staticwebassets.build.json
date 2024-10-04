@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vPqOq4J1jDLbDLDRrLatsrEE/pc0YVuRWjennvreF/Y=",
+  "Source": "EFBancoAPI",
+  "BasePath": "_content/EFBancoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

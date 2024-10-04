@@ -1,0 +1,134 @@
+[
+  {
+    "ContainingType": "EFBancoAPI.Controllers.CuentasController",
+    "Method": "Get",
+    "RelativePath": "api/Cuentas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EFBancoAPI.Controllers.CuentasController",
+    "Method": "Post",
+    "RelativePath": "api/Cuentas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "oCuenta",
+        "Type": "EFBancoAPI.Data.Models.Cuenta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EFBancoAPI.Controllers.CuentasController",
+    "Method": "Put",
+    "RelativePath": "api/Cuentas",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "oCuenta",
+        "Type": "EFBancoAPI.Data.Models.Cuenta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EFBancoAPI.Controllers.CuentasController",
+    "Method": "GetById",
+    "RelativePath": "api/Cuentas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EFBancoAPI.Controllers.CuentasController",
+    "Method": "Delete",
+    "RelativePath": "api/Cuentas/{id}/{motivoBaja}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "motivoBaja",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EFBancoAPI.Controllers.CuentasController",
+    "Method": "Get",
+    "RelativePath": "api/Cuentas/filtros/cbu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cbu",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EFBancoAPI.Controllers.CuentasController",
+    "Method": "Get",
+    "RelativePath": "api/Cuentas/filtros/entre-anios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year1",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "year2",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EFBancoAPI.Controllers.CuentasController",
+    "Method": "Get",
+    "RelativePath": "api/Cuentas/filtros/ultimos-{days}-dias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "days",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
