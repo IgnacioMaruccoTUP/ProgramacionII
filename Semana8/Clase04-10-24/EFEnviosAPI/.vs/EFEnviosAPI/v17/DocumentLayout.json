@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|c:\\users\\ignac\\documents\\tup\\programacionii\\semana8\\clase04-10-24\\efenviosapi\\efenviosapi\\data\\models\\tenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|solutionrelative:efenviosapi\\data\\models\\tenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|c:\\users\\ignac\\documents\\tup\\programacionii\\semana8\\clase04-10-24\\efenviosapi\\efenviosapi\\controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|solutionrelative:efenviosapi\\controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|c:\\users\\ignac\\documents\\tup\\programacionii\\semana8\\clase04-10-24\\efenviosapi\\efenviosapi\\data\\repositories\\implementations\\enviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|solutionrelative:efenviosapi\\data\\repositories\\implementations\\enviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|c:\\users\\ignac\\documents\\tup\\programacionii\\semana8\\clase04-10-24\\efenviosapi\\efenviosapi\\data\\services\\implementations\\enviosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|solutionrelative:efenviosapi\\data\\services\\implementations\\enviosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|c:\\users\\ignac\\documents\\tup\\programacionii\\semana8\\clase04-10-24\\efenviosapi\\efenviosapi\\data\\services\\contracts\\ienviosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|solutionrelative:efenviosapi\\data\\services\\contracts\\ienviosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|c:\\users\\ignac\\documents\\tup\\programacionii\\semana8\\clase04-10-24\\efenviosapi\\efenviosapi\\data\\repositories\\contracts\\ienviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|solutionrelative:efenviosapi\\data\\repositories\\contracts\\ienviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|c:\\users\\ignac\\documents\\tup\\programacionii\\semana8\\clase04-10-24\\efenviosapi\\efenviosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|solutionrelative:efenviosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|c:\\users\\ignac\\documents\\tup\\programacionii\\semana8\\clase04-10-24\\efenviosapi\\efenviosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|solutionrelative:efenviosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|c:\\users\\ignac\\documents\\tup\\programacionii\\semana8\\clase04-10-24\\efenviosapi\\efenviosapi\\data\\models\\enviosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A288CBE7-D2D2-4254-A4B0-22ED0D4BE053}|EFEnviosAPI\\EFEnviosAPI.csproj|solutionrelative:efenviosapi\\data\\models\\enviosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Data\\Models\\TEnvio.cs",
+              "RelativeDocumentMoniker": "EFEnviosAPI\\Data\\Models\\TEnvio.cs",
+              "ToolTip": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Data\\Models\\TEnvio.cs",
+              "RelativeToolTip": "EFEnviosAPI\\Data\\Models\\TEnvio.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:30:53.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnviosController.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Controllers\\EnviosController.cs",
+              "RelativeDocumentMoniker": "EFEnviosAPI\\Controllers\\EnviosController.cs",
+              "ToolTip": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Controllers\\EnviosController.cs",
+              "RelativeToolTip": "EFEnviosAPI\\Controllers\\EnviosController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAlwEEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:39:52.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnviosService.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Data\\Services\\Implementations\\EnviosService.cs",
+              "RelativeDocumentMoniker": "EFEnviosAPI\\Data\\Services\\Implementations\\EnviosService.cs",
+              "ToolTip": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Data\\Services\\Implementations\\EnviosService.cs",
+              "RelativeToolTip": "EFEnviosAPI\\Data\\Services\\Implementations\\EnviosService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:25:25.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEnviosService.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Data\\Services\\Contracts\\IEnviosService.cs",
+              "RelativeDocumentMoniker": "EFEnviosAPI\\Data\\Services\\Contracts\\IEnviosService.cs",
+              "ToolTip": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Data\\Services\\Contracts\\IEnviosService.cs",
+              "RelativeToolTip": "EFEnviosAPI\\Data\\Services\\Contracts\\IEnviosService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:25:08.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EFEnviosAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Program.cs",
+              "RelativeToolTip": "EFEnviosAPI\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:19:33.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEnviosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Data\\Repositories\\Contracts\\IEnviosRepository.cs",
+              "RelativeDocumentMoniker": "EFEnviosAPI\\Data\\Repositories\\Contracts\\IEnviosRepository.cs",
+              "ToolTip": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Data\\Repositories\\Contracts\\IEnviosRepository.cs",
+              "RelativeToolTip": "EFEnviosAPI\\Data\\Repositories\\Contracts\\IEnviosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:22:45.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnviosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Data\\Repositories\\Implementations\\EnviosRepository.cs",
+              "RelativeDocumentMoniker": "EFEnviosAPI\\Data\\Repositories\\Implementations\\EnviosRepository.cs",
+              "ToolTip": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Data\\Repositories\\Implementations\\EnviosRepository.cs",
+              "RelativeToolTip": "EFEnviosAPI\\Data\\Repositories\\Implementations\\EnviosRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:24:15.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EFEnviosAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\appsettings.json",
+              "RelativeToolTip": "EFEnviosAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T17:19:02.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnviosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Data\\Models\\EnviosDbContext.cs",
+              "RelativeDocumentMoniker": "EFEnviosAPI\\Data\\Models\\EnviosDbContext.cs",
+              "ToolTip": "C:\\Users\\ignac\\Documents\\TUP\\ProgramacionII\\Semana8\\Clase04-10-24\\EFEnviosAPI\\EFEnviosAPI\\Data\\Models\\EnviosDbContext.cs",
+              "RelativeToolTip": "EFEnviosAPI\\Data\\Models\\EnviosDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:18:52.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
