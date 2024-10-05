@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|c:\\users\\ignac\\desktop\\parcial i 2024\\parcialwebapi\\controllers\\criptomonedascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:controllers\\criptomonedascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|c:\\users\\ignac\\desktop\\parcial i 2024\\parcialwebapi\\repositories\\implementations\\criptomonedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:repositories\\implementations\\criptomonedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|c:\\users\\ignac\\desktop\\parcial i 2024\\parcialwebapi\\models\\criptomoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:models\\criptomoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|c:\\users\\ignac\\desktop\\parcial i 2024\\parcialwebapi\\models\\criptocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:models\\criptocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|c:\\users\\ignac\\desktop\\parcial i 2024\\parcialwebapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|c:\\users\\ignac\\desktop\\parcial i 2024\\parcialwebapi\\services\\contracts\\icriptomonedaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:services\\contracts\\icriptomonedaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|c:\\users\\ignac\\desktop\\parcial i 2024\\parcialwebapi\\repositories\\contracts\\icriptomonedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:repositories\\contracts\\icriptomonedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|c:\\users\\ignac\\desktop\\parcial i 2024\\parcialwebapi\\services\\implementations\\criptomonedaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:services\\implementations\\criptomonedaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|c:\\users\\ignac\\desktop\\parcial i 2024\\parcialwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|c:\\users\\ignac\\desktop\\parcial i 2024\\parcialwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|c:\\users\\ignac\\desktop\\parcial i 2024\\parcialwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CriptomonedasController.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Controllers\\CriptomonedasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CriptomonedasController.cs",
+              "ToolTip": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Controllers\\CriptomonedasController.cs",
+              "RelativeToolTip": "Controllers\\CriptomonedasController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:28:41.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CriptomonedaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Repositories\\Implementations\\CriptomonedaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\CriptomonedaRepository.cs",
+              "ToolTip": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Repositories\\Implementations\\CriptomonedaRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\CriptomonedaRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:16:20.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICriptomonedaService.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Services\\Contracts\\ICriptomonedaService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\ICriptomonedaService.cs",
+              "ToolTip": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Services\\Contracts\\ICriptomonedaService.cs",
+              "RelativeToolTip": "Services\\Contracts\\ICriptomonedaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:27:14.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:24:48.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CriptoContext.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Models\\CriptoContext.cs",
+              "RelativeDocumentMoniker": "Models\\CriptoContext.cs",
+              "ToolTip": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Models\\CriptoContext.cs",
+              "RelativeToolTip": "Models\\CriptoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:24:49.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Criptomoneda.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Models\\Criptomoneda.cs",
+              "RelativeDocumentMoniker": "Models\\Criptomoneda.cs",
+              "ToolTip": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Models\\Criptomoneda.cs",
+              "RelativeToolTip": "Models\\Criptomoneda.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:23:26.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICriptomonedaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Repositories\\Contracts\\ICriptomonedaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\ICriptomonedaRepository.cs",
+              "ToolTip": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Repositories\\Contracts\\ICriptomonedaRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\ICriptomonedaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:16:08.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CriptomonedaService.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Services\\Implementations\\CriptomonedaService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CriptomonedaService.cs",
+              "ToolTip": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Services\\Implementations\\CriptomonedaService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CriptomonedaService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:16:47.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAWwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:21:07.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T23:26:09.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ignac\\Desktop\\Parcial I 2024\\ParcialWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T23:19:50.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
