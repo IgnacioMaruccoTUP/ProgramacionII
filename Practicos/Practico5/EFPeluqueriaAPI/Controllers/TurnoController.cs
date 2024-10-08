@@ -29,6 +29,22 @@ namespace EFServiciosAPI.Controllers
             }
         }
 
+        [HttpGet("filtros")]
+        public async Task<IActionResult> GetByFilters([FromQuery] string? cliente, [FromQuery] DateTime? fecha)
+        {
+            try
+            {
+                if (cliente == null && fecha == null)
+                    return BadRequest("Ingresar al menos un valor de filtrado.");
+
+                return Ok(await _turnoService.GetByFilters(cliente, fecha));
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Error interno");
+            }
+        }
+
         // GET api/<TurnoController>/5
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(int id)

@@ -26,9 +26,9 @@ namespace DataAPI.Services.Implementations
             return await _turnoRepository.GetAll();
         }
 
-        public Task<List<TTurno>> GetByFilters(string? cliente, DateTime? fecha)
+        public async Task<List<TTurno>> GetByFilters(string? cliente, DateTime? fecha)
         {
-            throw new NotImplementedException();
+            return await _turnoRepository.GetByFilters(cliente, fecha);
         }
 
         public async Task<TTurno?> GetById(int id)

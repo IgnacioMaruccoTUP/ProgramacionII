@@ -3,8 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico5\\EFPeluqueriaAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75F15234-C9BB-4B09-B1CD-48DFD39FDC2E}|..\\DataAPI\\DataAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\practico5\\dataapi\\data\\repositories\\implementations\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29C7EEAD-7EC9-418D-8EF8-00F0B9CE9FE1}|EFPeluqueriaAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\practico5\\efpeluqueriaapi\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29C7EEAD-7EC9-418D-8EF8-00F0B9CE9FE1}|EFPeluqueriaAPI.csproj|solutionrelative:controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F15234-C9BB-4B09-B1CD-48DFD39FDC2E}|..\\DataAPI\\DataAPI.csproj|c:\\users\\ignacio\\documents\\tup\\1ro\\programacionii\\practicos\\practico5\\dataapi\\services\\implementations\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ignacio\\Desktop\\Practico5\\DataAPI\\Data\\Repositories\\Implementations\\TurnoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -26,7 +32,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +40,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "TurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico5\\DataAPI\\Services\\Implementations\\TurnoService.cs",
+              "RelativeDocumentMoniker": "..\\DataAPI\\Services\\Implementations\\TurnoService.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico5\\DataAPI\\Services\\Implementations\\TurnoService.cs",
+              "RelativeToolTip": "..\\DataAPI\\Services\\Implementations\\TurnoService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:08:37.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico5\\DataAPI\\Data\\Repositories\\Implementations\\TurnoRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAPI\\Data\\Repositories\\Implementations\\TurnoRepository.cs",
+              "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico5\\DataAPI\\Data\\Repositories\\Implementations\\TurnoRepository.cs",
+              "RelativeToolTip": "..\\DataAPI\\Data\\Repositories\\Implementations\\TurnoRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:03:35.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TurnoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\Practico5\\DataAPI\\Data\\Repositories\\Implementations\\TurnoRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Desktop\\Practico5\\DataAPI\\Data\\Repositories\\Implementations\\TurnoRepository.cs",
@@ -46,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TServicio.cs",
               "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\Practico5\\DataAPI\\Data\\Models\\TServicio.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Desktop\\Practico5\\DataAPI\\Data\\Models\\TServicio.cs",
@@ -58,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TDetallesTurno.cs",
               "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\Practico5\\DataAPI\\Data\\Models\\TDetallesTurno.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Desktop\\Practico5\\DataAPI\\Data\\Models\\TDetallesTurno.cs",
@@ -70,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TTurno.cs",
               "DocumentMoniker": "C:\\Users\\Ignacio\\Desktop\\Practico5\\DataAPI\\Data\\Models\\TTurno.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Desktop\\Practico5\\DataAPI\\Data\\Models\\TTurno.cs",
@@ -82,13 +114,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TurnoController.cs",
               "DocumentMoniker": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico5\\EFPeluqueriaAPI\\Controllers\\TurnoController.cs",
               "RelativeDocumentMoniker": "Controllers\\TurnoController.cs",
               "ToolTip": "C:\\Users\\Ignacio\\Documents\\TUP\\1ro\\ProgramacionII\\Practicos\\Practico5\\EFPeluqueriaAPI\\Controllers\\TurnoController.cs",
               "RelativeToolTip": "Controllers\\TurnoController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswDwAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T12:44:07.956Z",
               "EditorCaption": ""

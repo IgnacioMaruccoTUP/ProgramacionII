@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFPeluqueriaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a769e2023379170949b35811020941fc5cd17169")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76eb7a64e53a5ba54ee3a035f72a0532fd7c867f")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFPeluqueriaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFPeluqueriaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

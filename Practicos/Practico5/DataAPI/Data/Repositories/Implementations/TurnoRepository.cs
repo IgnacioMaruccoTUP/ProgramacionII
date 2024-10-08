@@ -33,9 +33,14 @@ namespace DataAPI.Data.Repositories.Implementations
             return await _context.TTurnos.Where(t => !t.FechaBaja.HasValue).ToListAsync();
         }
 
-        public Task<List<TTurno>> GetByFilters(string? cliente, DateTime? fecha)
+        public async Task<List<TTurno>> GetByFilters(string? cliente, DateTime? fecha)
         {
-            throw new NotImplementedException();
+            if (cliente == null)
+                return await _context.TTurnos.Where(t => !t.FechaBaja.HasValue && t.Fecha == fecha).ToListAsync();
+            if (fecha == null)
+                return await _context.TTurnos.Where(t => !t.FechaBaja.HasValue && t.Cliente == cliente).ToListAsync();
+
+            return await _context.TTurnos.Where(t => !t.FechaBaja.HasValue && t.Fecha == fecha && t.Cliente == cliente).ToListAsync();
         }
 
         public async Task<TTurno?> GetById(int id)
