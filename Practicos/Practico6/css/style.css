@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
+
+:root {
+  --color-dark: #2C3E50;
+  --color-light: #ECF0F1;
+  --color-primary-text: #2C3E50;
+  --color-secondary-text: #ECF0F1;
+
+  /* Font sizes */
+  --font-size-base: 1rem;
+  --font-size-h1: calc(2.5 * var(--font-size-base));
+  --font-size-h2: calc(2.25 * var(--font-size-base));
+  --font-size-h3: calc(2 * var(--font-size-base));
+  --font-size-h4: calc(1.75 * var(--font-size-base));
+  --font-size-h5: calc(1.5 * var(--font-size-base));
+  --font-size-h6: calc(1.25 * var(--font-size-base));
+  --font-size-p: var(--font-size-base);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Roboto', sans-serif;
+  color: var(--color-dark);
+}
+
+p,
+label {
+  font-family: 'Open Sans', sans-serif;
+  color: var(--color-primary-text);
+}
+
+a {
+  font-family: 'Roboto', sans-serif;
+  color: var(--color-primary-text);
+}
+
+h1 {
+  font-size: var(--font-size-h1);
+}
+
+h2 {
+  font-size: var(--font-size-h2);
+}
+
+h3 {
+  font-size: var(--font-size-h3);
+}
+
+h4 {
+  font-size: var(--font-size-h4);
+}
+
+h5 {
+  font-size: var(--font-size-h5);
+}
+
+h6 {
+  font-size: var(--font-size-h6);
+}
+
+p {
+  font-size: var(--font-size-p);
+}
+
+body {
+  display: grid;
+  grid-template-areas:
+    "nav"
+    "header"
+    "main"
+    "footer"
+  ;
+  grid-template-rows: auto auto 1fr auto;
+  min-height: 100vh;
+}
+
+header {
+  grid-area: header;
+  background-color: var(--color-dark);
+  color: var(--color-light);
+}
+
+nav {
+  grid-area: nav;
+}
+
+main {
+  grid-area: main;
+  background-color: var(--color-light);
+  color: var(--color-primary-text);
+}
+
+footer {
+  grid-area: footer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-dark);
+  color: var(--color-light);
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 10px;
+
+  text-align: center;
+  color: var(--color-secondary-text);
+}
+
+.user-info>img {
+  margin: 0 auto;
+}
+
+.navbar {
+  align-items: flex-start;
+}
+
+@media (min-width: 992px) {
+  body {
+    grid-template-areas:
+      "nav header"
+      "nav main"
+      "footer footer"
+    ;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto 1fr auto;
+  }
+
+  .navbar-collapse {
+    grid-area: nav;
+
+    display: flex;
+    flex-direction: column;
+  }
+}
