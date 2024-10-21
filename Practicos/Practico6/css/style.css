@@ -24,7 +24,7 @@ h4,
 h5,
 h6 {
   font-family: 'Roboto', sans-serif;
-  color: var(--color-dark);
+  color: var(--color-secondary-text);
 }
 
 p,
@@ -33,9 +33,10 @@ label {
   color: var(--color-primary-text);
 }
 
+span,
 a {
   font-family: 'Roboto', sans-serif;
-  color: var(--color-primary-text);
+  color: var(--color-secondary-text);
 }
 
 h1 {
@@ -86,6 +87,9 @@ header {
 
 nav {
   grid-area: nav;
+  background-color: var(--color-dark);
+
+  padding: 0 2rem;
 }
 
 main {
@@ -103,24 +107,116 @@ footer {
   color: var(--color-light);
 }
 
+.menu {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  text-align: center;
+}
+
 .user-info {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-start;
-  gap: 10px;
+  align-items: center;
+
+  gap: 1rem;
 
   text-align: center;
   color: var(--color-secondary-text);
 }
 
-.user-info>img {
-  margin: 0 auto;
+header {
+  text-align: center;
 }
 
-.navbar {
-  align-items: flex-start;
+
+/* RESPONSIVE NAVBAR */
+/* NavBar */
+nav li a {
+  text-decoration: none;
+
+  color: var(--color-light);
 }
+
+nav li a:hover,
+nav .menu-btn:hover {
+  background-color: var(--color-light);
+  color: var(--color-dark);
+}
+
+/* menu */
+nav .menu {
+  max-height: 0;
+  transition: max-height .2s ease-out;
+}
+
+/* menu icon */
+
+nav .menu-icon {
+  cursor: pointer;
+  display: inline-block;
+
+  padding: 28px 20px;
+  user-select: none;
+}
+
+nav .menu-icon .navicon {
+  background-color: var(--color-light);
+  display: block;
+  height: 2px;
+  position: relative;
+  transition: background .2s ease-out;
+  width: 18px;
+}
+
+nav .menu-icon .navicon:before,
+nav .menu-icon .navicon:after {
+  background-color: var(--color-light);
+  content: '';
+  display: block;
+  height: 100%;
+  position: absolute;
+  transition: all .2s ease-out;
+  width: 100%;
+}
+
+nav .menu-icon .navicon:before {
+  top: 5px;
+}
+
+nav .menu-icon .navicon:after {
+  top: -5px;
+}
+
+/* menu btn */
+
+nav .menu-btn {
+  display: none;
+}
+
+nav .menu-btn:checked~.menu {
+  max-height: 100%;
+}
+
+nav .menu-btn:checked~.menu-icon .navicon {
+  background: transparent;
+}
+
+nav .menu-btn:checked~.menu-icon .navicon:before {
+  transform: rotate(-45deg);
+}
+
+nav .menu-btn:checked~.menu-icon .navicon:after {
+  transform: rotate(45deg);
+}
+
+nav .menu-btn:checked~.menu-icon:not(.steps) .navicon:before,
+nav .menu-btn:checked~.menu-icon:not(.steps) .navicon:after {
+  top: 0;
+}
+
+/* Media Queries */
 
 @media (min-width: 992px) {
   body {
@@ -133,10 +229,16 @@ footer {
     grid-template-rows: auto 1fr auto;
   }
 
-  .navbar-collapse {
-    grid-area: nav;
+  nav {
+    padding: 2rem;
+  }
 
-    display: flex;
-    flex-direction: column;
+  nav .menu {
+    max-height: 100%;
+    transition: max-height .2s ease-out;
+  }
+
+  nav .menu-icon {
+    display: none;
   }
 }
