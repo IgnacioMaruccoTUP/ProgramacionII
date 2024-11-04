@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFPeluqueriaAPI", "EFPeluqueriaAPI.csproj", "{29C7EEAD-7EC9-418D-8EF8-00F0B9CE9FE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAPI", "..\DataAPI\DataAPI.csproj", "{75F15234-C9BB-4B09-B1CD-48DFD39FDC2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C7EEAD-7EC9-418D-8EF8-00F0B9CE9FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C7EEAD-7EC9-418D-8EF8-00F0B9CE9FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C7EEAD-7EC9-418D-8EF8-00F0B9CE9FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C7EEAD-7EC9-418D-8EF8-00F0B9CE9FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F15234-C9BB-4B09-B1CD-48DFD39FDC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F15234-C9BB-4B09-B1CD-48DFD39FDC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F15234-C9BB-4B09-B1CD-48DFD39FDC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F15234-C9BB-4B09-B1CD-48DFD39FDC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {307345F3-0190-4DBD-B333-4CC839BDFC0E}
+	EndGlobalSection
+EndGlobal
