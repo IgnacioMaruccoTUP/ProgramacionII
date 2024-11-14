@@ -1,0 +1,328 @@
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\CineAPI.exe
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\CineAPI.deps.json
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\CineAPI.runtimeconfig.json
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\CineAPI.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\CineAPI.pdb
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Isopoh.Cryptography.Argon2.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Isopoh.Cryptography.Blake2b.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Isopoh.Cryptography.SecureArray.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\CIneData.dll
+C:\Users\To\source\repos\CineAPI\bin\Debug\net8.0\CIneData.pdb
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\CineAPI.csproj.AssemblyReference.cache
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\CineAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\CineAPI.AssemblyInfoInputs.cache
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\CineAPI.AssemblyInfo.cs
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\CineAPI.csproj.CoreCompileInputs.cache
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\CineAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\CineAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\staticwebassets\msbuild.CineAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CineAPI.props
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CineAPI.props
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CineAPI.props
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\scopedcss\bundle\CineAPI.styles.css
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\CineAPI.csproj.CopyComplete
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\CineAPI.dll
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\refint\CineAPI.dll
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\CineAPI.pdb
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\CineAPI.genruntimeconfig.cache
+C:\Users\To\source\repos\CineAPI\obj\Debug\net8.0\ref\CineAPI.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\CineAPI.exe
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\CineAPI.deps.json
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\CineAPI.runtimeconfig.json
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\CineAPI.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\CineAPI.pdb
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Isopoh.Cryptography.Argon2.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Isopoh.Cryptography.Blake2b.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Isopoh.Cryptography.SecureArray.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\CIneData.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\bin\Debug\net8.0\CIneData.pdb
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.AssemblyInfo.cs
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets\msbuild.CineAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CineAPI.props
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CineAPI.props
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CineAPI.props
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\scopedcss\bundle\CineAPI.styles.css
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.csproj.Up2Date
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\refint\CineAPI.dll
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.pdb
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.genruntimeconfig.cache
+C:\Users\Ignacio\Documents\TPIv2\CineAPI\obj\Debug\net8.0\ref\CineAPI.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\CineAPI.exe
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\CineAPI.deps.json
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\CineAPI.runtimeconfig.json
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\CineAPI.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\CineAPI.pdb
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Isopoh.Cryptography.Argon2.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Isopoh.Cryptography.Blake2b.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Isopoh.Cryptography.SecureArray.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\CIneData.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\bin\Debug\net8.0\CIneData.pdb
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\CineAPI.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\CineAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\CineAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\CineAPI.AssemblyInfo.cs
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\CineAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\CineAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\CineAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\staticwebassets\msbuild.CineAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\staticwebassets\msbuild.build.CineAPI.props
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CineAPI.props
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CineAPI.props
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\scopedcss\bundle\CineAPI.styles.css
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\CineAPI.csproj.Up2Date
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\CineAPI.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\refint\CineAPI.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\CineAPI.pdb
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\CineAPI.genruntimeconfig.cache
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CineAPIv3\obj\Debug\net8.0\ref\CineAPI.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\appsettings.json
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\CineAPI.exe
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\CineAPI.deps.json
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\CineAPI.runtimeconfig.json
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\CineAPI.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\CineAPI.pdb
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Isopoh.Cryptography.Argon2.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Isopoh.Cryptography.Blake2b.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Isopoh.Cryptography.SecureArray.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\CIneData.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\bin\Debug\net8.0\CIneData.pdb
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.csproj.AssemblyReference.cache
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.AssemblyInfoInputs.cache
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.AssemblyInfo.cs
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.csproj.CoreCompileInputs.cache
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets\msbuild.CineAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CineAPI.props
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CineAPI.props
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CineAPI.props
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\scopedcss\bundle\CineAPI.styles.css
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.csproj.CopyComplete
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\refint\CineAPI.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.pdb
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\CineAPI.genruntimeconfig.cache
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CineAPI\obj\Debug\net8.0\ref\CineAPI.dll

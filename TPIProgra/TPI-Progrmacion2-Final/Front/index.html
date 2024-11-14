@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./css/reset.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Dashboard</title>
+  </head>
+  <body>
+    <nav>
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"
+        ><span class="navicon"></span
+      ></label>
+
+      <ul class="menu">
+        <li>
+          <div class="user-info">
+            <img src="./images/avatar.png" alt="Logo" width="50" height="50" />
+            <span id="user">Username</span>
+          </div>
+        </li>
+        <li><a id="inicio" href="#">Inicio</a></li>
+        <li><a id="registrar" href="#">Registrarse</a></li>
+        <li><a id="ingresar" href="#">Ingresar</a></li>
+
+        <li>
+          <div class="dropdown">
+            <button
+              class="btn btn-secondary dropdown-toggle"
+              type="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Funciones
+            </button>
+            <ul class="dropdown-menu">
+              <li>
+                <a id="consultar_funciones" class="dropdown-item" href="#"
+                  >Consultar Funciones</a
+                >
+              </li>
+              <li>
+                <a id="agregar_funcion" class="dropdown-item" href="#"
+                  >Nueva Funcion</a
+                >
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li>
+          <div class="dropdown">
+            <button
+              class="btn btn-secondary dropdown-toggle"
+              type="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Reservas
+            </button>
+            <ul class="dropdown-menu">
+              <li>
+                <a id="consultar_reservas" class="dropdown-item" href="#"
+                  >Consultar Reservas</a
+                >
+              </li>
+              <li>
+                <a id="agregar_reserva" class="dropdown-item" href="#"
+                  >Nueva Reserva</a
+                >
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li>
+          <button type="button" class="btn btn-secondary" id="acerca_de">Acerca De</button>
+        </li>
+      </ul>
+    </nav>
+
+    <header><h1>DASHBOARD</h1></header>
+
+    <main></main>
+    <footer>&#64;2024</footer>
+    <div
+      class="modal fade"
+      id="detalleModal"
+      tabindex="-1"
+      aria-labelledby="availabilityModalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="availabilityModalLabel">
+              Entradas
+            </h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <table id="tabla-modal" class="table">
+              <thead>
+                <tr>
+                  <th>Butaca</th>
+                  <th>Pelicula</th>
+                  <th>Horario</th>
+                  <th>Sala</th>
+                  <th>Costo</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+              <tfoot>
+                <tr>
+                  <td colspan="4">Total:</td>
+                  <td id="total"></td>
+                </tr>
+              </tfoot>
+
+            </table>
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-bs-dismiss="modal"
+            >
+              Cerrar
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+    <script type="module" src="./js/main.js"></script>
+  </body>
+</html>

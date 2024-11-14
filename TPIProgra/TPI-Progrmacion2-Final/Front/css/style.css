@@ -1,0 +1,630 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Open+Sans:wght@400;700&family=Montserrat:wght@400;700&display=swap');
+
+:root {
+  --color-dark: #001220;
+  --color-light: #FBAE3C;
+  --color-primary-text: #001220;
+  --color-secondary-text: #FBAE3C;
+  --color-tertiary: #297EA6;
+
+  /* Font sizes */
+  --font-size-base: 1rem;
+  --font-size-h1: calc(2.5 * var(--font-size-base));
+  --font-size-h2: calc(2.25 * var(--font-size-base));
+  --font-size-h3: calc(2 * var(--font-size-base));
+  --font-size-h4: calc(1.75 * var(--font-size-base));
+  --font-size-h5: calc(1.5 * var(--font-size-base));
+  --font-size-h6: calc(1.25 * var(--font-size-base));
+  --font-size-p: var(--font-size-base);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Montserrat', sans-serif;
+  color: var(--color-secondary-text);
+}
+
+span,
+p,
+label {
+  font-family: 'Open Sans', sans-serif;
+  color: var(--color-primary-text);
+}
+
+a {
+  font-family: 'Roboto', sans-serif;
+  color: var(--color-secondary-text);
+}
+
+h1 {
+  font-size: var(--font-size-h1);
+}
+
+h2 {
+  font-size: var(--font-size-h2);
+}
+
+h3 {
+  font-size: var(--font-size-h3);
+}
+
+h4 {
+  font-size: var(--font-size-h4);
+}
+
+h5 {
+  font-size: var(--font-size-h5);
+}
+
+h6 {
+  font-size: var(--font-size-h6);
+}
+
+p {
+  font-size: var(--font-size-p);
+}
+
+body {
+  display: grid;
+  grid-template-areas:
+    "nav"
+    "header"
+    "main"
+    "footer"
+  ;
+  grid-template-rows: auto auto 1fr auto;
+  min-height: 100vh;
+}
+
+header {
+  grid-area: header;
+  background-color: var(--color-dark);
+  color: var(--color-light);
+
+  padding: 1rem;
+}
+
+nav {
+  grid-area: nav;
+  background-color: var(--color-dark);
+
+  padding: 0 2rem;
+}
+
+main {
+  grid-area: main;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+
+  background-color: var(--color-light);
+  color: var(--color-primary-text);
+
+
+
+  padding: 2rem;
+
+  /* background-color: #ECF0F1; */
+  background-image: url(../images/blob-scene-haikei.svg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+nav {
+  background-color: #001220;
+
+}
+
+
+footer {
+  grid-area: footer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-dark);
+  color: var(--color-light);
+
+
+
+  padding: 1rem;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  text-align: center;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  gap: 1rem;
+
+  text-align: center;
+  color: var(--color-secondary-text);
+}
+
+.user-info>span {
+  color: var(--color-secondary-text);
+}
+
+header {
+  text-align: center;
+}
+
+.hidden-column {
+  display: none;
+}
+
+section {
+  padding: 20px;
+  background-color: var(--color-light);
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+section h1,
+section h2,
+section h3,
+section h4,
+section h5,
+section h6 {
+  color: var(--color-primary-text);
+}
+
+section h1 {
+  color: var(--color-primary-text);
+  font-size: var(--font-size-h1);
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.img-logo {
+  width: 200px;
+}
+
+.new-turn-form,
+.new-service-form {
+  max-width: 600px;
+}
+
+.table {
+  border-collapse: collapse;
+  /* Ensure borders collapse for better aesthetics */
+  width: 100%;
+  /* Make the table take full width */
+}
+
+.table th,
+.table td {
+  padding: 15px;
+  /* Padding for cells for better spacing */
+  text-align: center;
+  /* Center-align text in cells */
+  color: var(--color-dark);
+  /* Use dark text color for contrast */
+}
+
+.table th {
+  background-color: var(--color-tertiary);
+  /* Tertiary color for the header */
+  color: var(--color-light);
+  /* Light text color for header */
+  border-bottom: 2px solid var(--color-dark);
+  /* Distinct border below header */
+}
+
+.table-striped tbody tr:nth-child(odd) {
+  background-color: var(--color-light);
+  /* Light background for odd rows */
+}
+
+.table th,
+.table td {
+  padding: 15px;
+  text-align: center;
+  color: var(--color-dark);
+  border: 1px solid var(--color-dark);
+  /* Add a border to all cells */
+}
+
+form button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: var(--color-dark) !important;
+  color: var(--color-light) !important;
+  border: none !important;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  /* Smooth transition */
+}
+
+/* Hover effect */
+form button:hover {
+  background-color: var(--color-light);
+  /* Change background on hover */
+  color: var(--color-dark);
+  /* Change text color on hover */
+  transform: translateY(-2px);
+  /* Slightly raise the button */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  /* Add shadow on hover */
+}
+
+/* Active effect */
+form button:active {
+  transform: translateY(1px);
+  /* Slightly lower the button on click */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  /* Reduce shadow on click */
+}
+
+.btn-secondary {
+  background-color: var(--color-dark) !important;
+}
+
+.btn-secondary:hover {
+  color: var(--color-dark) !important;
+  background-color: var(--color-light) !important;
+}
+
+/* DROPDOWN ITEMS */
+.dropdown .btn {
+  background-color: var(--color-dark) !important;
+}
+
+.dropdown .btn:hover {
+  color: var(--color-dark) !important;
+  background-color: var(--color-light) !important;
+}
+
+.dropdown-menu {
+  background-color: var(--color-light) !important;
+}
+
+.dropdown-item {
+  color: var(--color-dark) !important;
+  background-color: var(--color-light) !important;
+}
+
+.dropdown-item:hover {
+  color: var(--color-light) !important;
+  background-color: var(--color-dark) !important;
+}
+
+/* RESPONSIVE NAVBAR */
+/* NavBar */
+nav li a,
+li span {
+  text-decoration: none;
+
+  color: var(--color-light) !important;
+}
+
+nav li a:hover,
+nav .menu-btn:hover,
+li span:hover {
+  background-color: var(--color-light);
+  color: var(--color-dark) !important;
+  cursor: pointer;
+}
+
+/* menu */
+nav .menu {
+  max-height: 0;
+  transition: max-height .2s ease-out;
+}
+
+/* menu icon */
+
+nav .menu-icon {
+  cursor: pointer;
+  display: inline-block;
+
+  padding: 28px 20px;
+  user-select: none;
+}
+
+nav .menu-icon .navicon {
+  background-color: var(--color-light);
+  display: block;
+  height: 2px;
+  position: relative;
+  transition: background .2s ease-out;
+  width: 18px;
+}
+
+nav .menu-icon .navicon:before,
+nav .menu-icon .navicon:after {
+  background-color: var(--color-light);
+  content: '';
+  display: block;
+  height: 100%;
+  position: absolute;
+  transition: all .2s ease-out;
+  width: 100%;
+}
+
+nav .menu-icon .navicon:before {
+  top: 5px;
+}
+
+nav .menu-icon .navicon:after {
+  top: -5px;
+}
+
+/* menu btn */
+
+nav .menu-btn {
+  display: none;
+}
+
+nav .menu-btn:checked~.menu {
+  max-height: 100%;
+}
+
+nav .menu-btn:checked~.menu-icon .navicon {
+  background: transparent;
+}
+
+nav .menu-btn:checked~.menu-icon .navicon:before {
+  transform: rotate(-45deg);
+}
+
+nav .menu-btn:checked~.menu-icon .navicon:after {
+  transform: rotate(45deg);
+}
+
+nav .menu-btn:checked~.menu-icon:not(.steps) .navicon:before,
+nav .menu-btn:checked~.menu-icon:not(.steps) .navicon:after {
+  top: 0;
+}
+
+/* Media Queries */
+
+@media (min-width: 992px) {
+  body {
+    grid-template-areas:
+      "nav header"
+      "nav main"
+      "footer footer"
+    ;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto 1fr auto;
+  }
+
+  nav {
+    padding: 2rem;
+
+    background-image: url(../images/blob-scene-haikei.svg);
+    background-attachment: fixed;
+    background-size: cover;
+
+  }
+
+  nav .menu {
+    max-height: 100%;
+    transition: max-height .2s ease-out;
+  }
+
+  nav .menu-icon {
+    display: none;
+  }
+}
+
+@keyframes fadeInUpEnhanced {
+  0% {
+    opacity: 0;
+    transform: translateY(30px) scale(0.95);
+  }
+
+  50% {
+    opacity: 0.5;
+    transform: translateY(15px) scale(1.05);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+section {
+  opacity: 0;
+  transform: translateY(30px) scale(0.95);
+  animation: fadeInUpEnhanced 0.8s ease-out forwards;
+}
+
+.modal-dialog {
+  max-width: max-content;
+}
+
+.sala {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.fila {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.posicion {
+  font-family: "Roboto", sans-serif;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.libre {
+  background-color: gray;
+  cursor: pointer;
+}
+
+.ocupada {
+  background-color: red;
+}
+
+.reservada {
+  background-color: greenyellow;
+  cursor: pointer;
+}
+
+#contador {
+  color: #001220;
+}
+
+
+/* Botón Primario */
+.btn-primary {
+  background-color: var(--color-light);
+  /* #FBAE3C */
+  color: var(--color-dark);
+  /* #001220 */
+  border-color: var(--color-light);
+}
+
+/* Botón Secundario */
+.btn-secondary {
+  background-color: var(--color-tertiary);
+  /* #297EA6 */
+  color: #ffffff;
+  border-color: var(--color-light);
+}
+
+/* Botón de Éxito (Success) */
+.btn-success {
+  background-color: #4CAF50;
+  /* Verde para indicar éxito */
+  color: #ffffff;
+  border-color: #4CAF50;
+}
+
+/* Botón de Peligro (Danger) */
+.btn-danger {
+  background-color: #E63946;
+  /* Rojo para indicar peligro */
+  color: #ffffff;
+  border-color: #E63946;
+}
+
+/* Botón de Advertencia (Warning) */
+.btn-warning {
+  background-color: #FFB703;
+  /* Amarillo para advertencias */
+  color: var(--color-dark);
+  /* Texto oscuro para contraste */
+  border-color: #FFB703;
+}
+
+/* Botón de Información (Info) */
+.btn-info {
+  background-color: #2A9D8F;
+  /* Azul verdoso para información */
+  color: #ffffff;
+  border-color: #2A9D8F;
+}
+
+/* Botón de Luz (Light) */
+.btn-light {
+  background-color: #F1FAEE;
+  /* Gris claro */
+  color: var(--color-dark);
+  /* Texto oscuro para contraste */
+  border-color: #F1FAEE;
+}
+
+/* Botón Oscuro (Dark) */
+.btn-dark {
+  background-color: var(--color-dark);
+  /* #001220 */
+  color: var(--color-secondary-text);
+  /* #FBAE3C */
+  border-color: var(--color-dark);
+}
+
+/* Hover Primario */
+.btn-primary:hover {
+  background-color: #e69930;
+  /* Más oscuro que var(--color-light) */
+  color: var(--color-dark);
+  /* #001220 */
+  border-color: #e69930;
+}
+
+/* Hover Secundario */
+.btn-secondary:hover {
+  background-color: #226b84;
+  /* Más oscuro que var(--color-tertiary) */
+  color: #ffffff;
+  border-color: #226b84;
+}
+
+/* Hover de Éxito (Success) */
+.btn-success:hover {
+  background-color: #43a047;
+  /* Más oscuro que el verde original */
+  color: #ffffff;
+  border-color: #43a047;
+}
+
+/* Hover de Peligro (Danger) */
+.btn-danger:hover {
+  background-color: #c5303b;
+  /* Más oscuro que el rojo original */
+  color: #ffffff;
+  border-color: #c5303b;
+}
+
+/* Hover de Advertencia (Warning) */
+.btn-warning:hover {
+  background-color: #e6a602;
+  /* Más oscuro que el amarillo original */
+  color: var(--color-dark);
+  /* Texto oscuro para contraste */
+  border-color: #e6a602;
+}
+
+/* Hover de Información (Info) */
+.btn-info:hover {
+  background-color: #23877a;
+  /* Más oscuro que el azul verdoso original */
+  color: #ffffff;
+  border-color: #23877a;
+}
+
+/* Hover de Luz (Light) */
+.btn-light:hover {
+  background-color: #e2e8ec;
+  /* Más oscuro que el gris claro */
+  color: var(--color-dark);
+  /* Texto oscuro para contraste */
+  border-color: #e2e8ec;
+}
+
+/* Hover Oscuro (Dark) */
+.btn-dark:hover {
+  background-color: #000d17;
+  /* Más oscuro que var(--color-dark) */
+  color: var(--color-secondary-text);
+  /* #FBAE3C */
+  border-color: #000d17;
+}

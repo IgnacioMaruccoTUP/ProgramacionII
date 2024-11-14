@@ -1,0 +1,56 @@
+C:\Users\To\source\repos\CIneData\bin\Debug\net8.0\CIneData.deps.json
+C:\Users\To\source\repos\CIneData\bin\Debug\net8.0\CIneData.runtimeconfig.json
+C:\Users\To\source\repos\CIneData\bin\Debug\net8.0\CIneData.dll
+C:\Users\To\source\repos\CIneData\bin\Debug\net8.0\CIneData.pdb
+C:\Users\To\source\repos\CIneData\obj\Debug\net8.0\CIneData.csproj.AssemblyReference.cache
+C:\Users\To\source\repos\CIneData\obj\Debug\net8.0\CIneData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\To\source\repos\CIneData\obj\Debug\net8.0\CIneData.AssemblyInfoInputs.cache
+C:\Users\To\source\repos\CIneData\obj\Debug\net8.0\CIneData.AssemblyInfo.cs
+C:\Users\To\source\repos\CIneData\obj\Debug\net8.0\CIneData.csproj.CoreCompileInputs.cache
+C:\Users\To\source\repos\CIneData\obj\Debug\net8.0\CIneData.dll
+C:\Users\To\source\repos\CIneData\obj\Debug\net8.0\refint\CIneData.dll
+C:\Users\To\source\repos\CIneData\obj\Debug\net8.0\CIneData.pdb
+C:\Users\To\source\repos\CIneData\obj\Debug\net8.0\CIneData.genruntimeconfig.cache
+C:\Users\To\source\repos\CIneData\obj\Debug\net8.0\ref\CIneData.dll
+C:\Users\Ignacio\Documents\TPIv2\CIneData\bin\Debug\net8.0\CIneData.deps.json
+C:\Users\Ignacio\Documents\TPIv2\CIneData\bin\Debug\net8.0\CIneData.runtimeconfig.json
+C:\Users\Ignacio\Documents\TPIv2\CIneData\bin\Debug\net8.0\CIneData.dll
+C:\Users\Ignacio\Documents\TPIv2\CIneData\bin\Debug\net8.0\CIneData.pdb
+C:\Users\Ignacio\Documents\TPIv2\CIneData\obj\Debug\net8.0\CIneData.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Documents\TPIv2\CIneData\obj\Debug\net8.0\CIneData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Documents\TPIv2\CIneData\obj\Debug\net8.0\CIneData.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Documents\TPIv2\CIneData\obj\Debug\net8.0\CIneData.AssemblyInfo.cs
+C:\Users\Ignacio\Documents\TPIv2\CIneData\obj\Debug\net8.0\CIneData.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Documents\TPIv2\CIneData\obj\Debug\net8.0\CIneData.dll
+C:\Users\Ignacio\Documents\TPIv2\CIneData\obj\Debug\net8.0\refint\CIneData.dll
+C:\Users\Ignacio\Documents\TPIv2\CIneData\obj\Debug\net8.0\CIneData.pdb
+C:\Users\Ignacio\Documents\TPIv2\CIneData\obj\Debug\net8.0\CIneData.genruntimeconfig.cache
+C:\Users\Ignacio\Documents\TPIv2\CIneData\obj\Debug\net8.0\ref\CIneData.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\bin\Debug\net8.0\CIneData.deps.json
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\bin\Debug\net8.0\CIneData.runtimeconfig.json
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\bin\Debug\net8.0\CIneData.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\bin\Debug\net8.0\CIneData.pdb
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\obj\Debug\net8.0\CIneData.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\obj\Debug\net8.0\CIneData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\obj\Debug\net8.0\CIneData.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\obj\Debug\net8.0\CIneData.AssemblyInfo.cs
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\obj\Debug\net8.0\CIneData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\obj\Debug\net8.0\CIneData.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\obj\Debug\net8.0\refint\CIneData.dll
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\obj\Debug\net8.0\CIneData.pdb
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\obj\Debug\net8.0\CIneData.genruntimeconfig.cache
+C:\Users\Admin\Documents\TUP\segundo cuatrimestre\Programación\tp-prog\TPIv3\TPIv2\CIneData\obj\Debug\net8.0\ref\CIneData.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\bin\Debug\net8.0\CIneData.deps.json
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\bin\Debug\net8.0\CIneData.runtimeconfig.json
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\bin\Debug\net8.0\CIneData.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\bin\Debug\net8.0\CIneData.pdb
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\obj\Debug\net8.0\CIneData.csproj.AssemblyReference.cache
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\obj\Debug\net8.0\CIneData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\obj\Debug\net8.0\CIneData.AssemblyInfoInputs.cache
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\obj\Debug\net8.0\CIneData.AssemblyInfo.cs
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\obj\Debug\net8.0\CIneData.csproj.CoreCompileInputs.cache
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\obj\Debug\net8.0\CIneData.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\obj\Debug\net8.0\refint\CIneData.dll
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\obj\Debug\net8.0\CIneData.pdb
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\obj\Debug\net8.0\CIneData.genruntimeconfig.cache
+D:\Descargas\PrograFINAL-20241114T192633Z-001\PrograFINAL\TPIv2\CIneData\obj\Debug\net8.0\ref\CIneData.dll
