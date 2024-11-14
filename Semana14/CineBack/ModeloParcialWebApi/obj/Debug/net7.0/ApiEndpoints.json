@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "ModeloParcialWebApi.Controllers.PeliculasController",
+    "Method": "GetGeneros",
+    "RelativePath": "api/Generos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ModeloParcialWebApi.Controllers.PeliculasController",
+    "Method": "Post",
+    "RelativePath": "api/Peliculas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pelicula",
+        "Type": "ModeloParcialWebApi.Models.Pelicula",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ModeloParcialWebApi.Controllers.PeliculasController",
+    "Method": "GetByGenero",
+    "RelativePath": "api/Peliculas/{genero}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genero",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ModeloParcialWebApi.Controllers.PeliculasController",
+    "Method": "Put",
+    "RelativePath": "api/Peliculas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ModeloParcialWebApi.Controllers.PeliculasController",
+    "Method": "Delete",
+    "RelativePath": "api/Peliculas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ModeloParcialWebApi.Controllers.PeliculasController",
+    "Method": "GetByYears",
+    "RelativePath": "api/Peliculas/Entre",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "anioDesde",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "anioHasta",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
