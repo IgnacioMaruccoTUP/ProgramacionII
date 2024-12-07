@@ -3,7 +3,7 @@
 
 **FACULTAD REGIONAL CÓRDOBA**
 
-**Licenciatura en Ciencias de la Computación** 
+**Tecnicatura Universitaria en Programacion** 
 
 **Programación II**
 
